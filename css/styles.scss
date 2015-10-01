@@ -1,0 +1,49 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+// $enable-flex: true;
+$font-family-sans-serif: "Open Sans", sans-serif;
+
+@import "bootstrap";
+
+body {
+  position: relative;
+  padding-top: 3.5rem;
+  background-color: #eceeef;
+  // padding-bottom: 7.5rem;
+}
+
+.navbar-brand {
+  font-size: 1.4rem;
+}
+
+.jumbotron {
+  border-radius: 0;
+  margin-bottom: 0;
+}
+
+.bg-blue {
+  background-color: #5593D7;
+}
+
+h1 {
+  padding-top: 7.5rem;
+  margin-top: -7.5rem;
+}
+
+.text-white {
+  color: white;
+}
+
+.card-deck {
+  margin-top: 2rem;
+  // margin-bottom: 4rem;
+}
+
+.card > img {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  padding-bottom: 1.25rem;
+  // width: 100%;
+}
