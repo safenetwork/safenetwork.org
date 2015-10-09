@@ -1,6 +1,6 @@
 # safenetwork.github.io
 
-This repository contains the source files for safenetwork.org.
+This repository contains the source files for [safenetwork.org](https://safenetwork.org).
 
 ## Deployment
 
