@@ -14,7 +14,7 @@
 </title>
 
 <meta property="og:title" content="{{ page.title }}">
-<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 <meta property="og:description" content="The SAFE Network is a secure data storage and communication platform.">
 <meta property="og:image" content="{{ site.baseurl }}/images/wee-plane-blue.jpg">
 
