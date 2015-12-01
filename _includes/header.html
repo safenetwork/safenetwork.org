@@ -2,24 +2,27 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="The SAFE Network is a secure data storage and communication platform.">
-<meta name="keywords" content="SAFE Network, MaidSafe, privacy, security, freedom">
+
+<link rel="icon" href="{{ site.baseurl }}/images/maidsafe-logo-512.png" type="image/png">
 
 <title>
   {% if page.layout == "home" %}
     {{ page.title }}
   {% else %}
-    {{ page.title }} &middot; SAFE Network
+    {{ page.title }} - SAFE Network
   {% endif %}
 </title>
+
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:description" content="The SAFE Network is a secure data storage and communication platform.">
+<meta property="og:image" content="{{ site.baseurl }}/images/wee-plane-blue.jpg">
 
 <!-- Open Sans -->
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
 
 <!-- Bootstrap core CSS + custom styles -->
 <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css">
-
-<!-- Favicon -->
-<link rel="icon" href="{{ site.baseurl }}/favicon.ico">
 
 <!-- Piwik -->
 <script type="text/javascript">
