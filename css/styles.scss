@@ -23,13 +23,19 @@ body {
   margin-bottom: 0;
 }
 
+@media (min-width: 544px) {
+  .jumbotron {
+    padding: 3rem 2rem;
+  }
+}
+
 .bg-blue {
   background-color: #5593D7;
 }
 
 h1 {
-  padding-top: 7.5rem;
-  margin-top: -7.5rem;
+  padding-top: 6.5rem;
+  margin-top: -6.5rem;
 }
 
 .text-white {
