@@ -41,10 +41,11 @@ html {
 // and apply some conditional CSS.
 //
 // See http://getbootstrap.com/getting-started/#support-ie10-width for the relevant hack.
-
-
+//
 // Wrap `@viewport` with `@at-root` for when folks do a nested import (e.g.,
 // `.class-name { @import "bootstrap"; }`).
+//
+// Includes future-proofed vendor prefixes as well.
 @at-root {
   @-moz-viewport      { width: device-width; }
   @-ms-viewport       { width: device-width; }
@@ -52,6 +53,7 @@ html {
   @-webkit-viewport   { width: device-width; }
   @viewport           { width: device-width; }
 }
+
 
 //
 // Reset HTML, body, and more
@@ -127,7 +129,7 @@ ul ol {
 }
 
 dt {
-  font-weight: bold;
+  font-weight: $dt-font-weight;
 }
 
 dd {
@@ -257,7 +259,7 @@ th {
 //
 
 label {
-  // Allow labels can use `margin` for spacing.
+  // Allow labels to use `margin` for spacing.
   display: inline-block;
   margin-bottom: .5rem;
 }
