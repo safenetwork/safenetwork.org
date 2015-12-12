@@ -1,4 +1,4 @@
-# safenetwork.github.io
+# safenetwork.org
 
 This repository contains the source files for [safenetwork.org](https://safenetwork.org).
 
@@ -8,7 +8,7 @@ The site is automatically deployed to GitHub pages.
 
 ## Testing Locally
 
-To install jekyll:
+To install [Jekyll](http://jekyllrb.com):
 
 ```
 gem install jekyll
