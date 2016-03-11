@@ -1,13 +1,5 @@
----
-# Front matter comment to ensure Jekyll properly reads file.
----
-
-// $enable-flex: true;
-$font-family-sans-serif: "Open Sans", sans-serif;
-
-@import "bootstrap";
-
 body {
+  font-family: 'Open Sans', sans-serif;
   position: relative;
   padding-top: 3.5rem;
   background-color: #eceeef;

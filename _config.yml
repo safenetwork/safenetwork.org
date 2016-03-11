@@ -1,4 +1,2 @@
 url: "https://safenetwork.org"
 markdown: kramdown
-sass:
-  style: compressed
