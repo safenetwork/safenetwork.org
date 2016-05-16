@@ -1,6 +1,8 @@
 # safenetwork.org
 
-This repository contains the source files for [safenetwork.org](https://safenetwork.org).
+[![](https://img.shields.io/badge/freenode-%23safenetwork-blue.svg?style=flat-square)](https://kiwiirc.com/client/irc.freenode.net/safenetwork)
+
+> This repository contains the source files for [safenetwork.org](https://safenetwork.org).
 
 ## Deployment
 
@@ -22,7 +24,7 @@ jekyll serve
 
 This will serve the site at `localhost:4000`.
 
-## Contributing to safenetwork.org
+## Contributing
 
 By contributing to this website, you dedicate your work to the public domain and relinquish any copyright claims under the terms of the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
