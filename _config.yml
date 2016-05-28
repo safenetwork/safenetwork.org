@@ -1,2 +1,13 @@
-url: "https://safenetwork.org"
+title: SAFE Network
+description: A decentralized data storage and communications network that provides a secure, efficient and no-cost infrastructure for app developers.
 markdown: kramdown
+url: "https://safenetwork.org"
+
+exclude:
+  - CNAME
+  - Gemfile
+  - LICENSE.md
+  - README.md
+
+sass:
+  style: :compressed
