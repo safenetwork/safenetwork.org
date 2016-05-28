@@ -3,6 +3,8 @@ description: A decentralized data storage and communications network that provid
 markdown: kramdown
 url: "https://safenetwork.org"
 
+permalink: pretty
+
 exclude:
   - CNAME
   - Gemfile
