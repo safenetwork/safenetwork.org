@@ -26,9 +26,7 @@ Here are the best places to ask for help:
 
 The [SAFE Network Forum](https://forum.safenetwork.io) is the main discussion forum of the SAFE Network community.
 
-Alternatives:
-
-- [/r/safenetwork](https://www.reddit.com/r/safenetwork) (Reddit)
+Alternative: [/r/safenetwork](https://www.reddit.com/r/safenetwork) (Reddit)
 
 ## Chats
 
@@ -56,6 +54,12 @@ See also [#events](https://forum.safenetwork.io/c/community/events).
 - [MaidSafe Code Bounty Program](http://blog.maidsafe.net/2015/07/08/maidsafe-code-bounty-program/)
 - [Job opportunities at MaidSafe](http://maidsafe.net/company.html#join-our-team)
 - [SAFE Pods](https://blog.maidsafe.net/2014/06/12/safe-pods-and-decentralizing-project-safe-development/)
+
+## Apps
+
+- [apps.safenetwork.org](https://apps.safenetwork.org/)
+- [“Live” Community Apps](https://forum.safenetwork.io/t/live-community-apps/9494)
+- [#apps](https://forum.safenetwork.io/c/apps)
 
 ## Blogs
 
