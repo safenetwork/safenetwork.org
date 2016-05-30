@@ -19,7 +19,7 @@ By contributing to this website, you dedicate your work to the public domain and
 
 ## Credits
 
-The layout was inspired by https://github.com/twbs/bootstrap/tree/v4-dev.
+The layout was inspired by [v4-alpha.getbootstrap.com](https://v4-alpha.getbootstrap.com/).
 
 ## Public domain
 
