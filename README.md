@@ -4,29 +4,22 @@
 
 > This repository contains the source files for [safenetwork.org](https://safenetwork.org).
 
-## Deployment
-
-The site is automatically deployed to GitHub pages.
-
-## Testing Locally
-
-To install [Jekyll](http://jekyllrb.com):
-
-```
-gem install jekyll
-```
-
-To run this website as a developer:
-
-```
-jekyll serve
-```
-
-This will serve the site at `localhost:4000`.
-
 ## Contributing
 
 By contributing to this website, you dedicate your work to the public domain and relinquish any copyright claims under the terms of the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+
+### How to send a pull request
+
+- Fork this repository on GitHub and clone your fork locally on your computer.
+- Install [Jekyll](https://jekyllrb.com/) and other [dependencies](https://pages.github.com/versions/) with the command `bundle install`*
+- Test out your changes with the command `bundle exec jekyll serve`
+- When you're happy, push your changes up and open a pull request.
+
+\* GitHub recommends using [Bundler](https://bundler.io/) to install and run Jekyll. [Click here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#requirements) for more info.
+
+## Credits
+
+The layout was inspired by https://github.com/twbs/bootstrap/tree/v4-dev.
 
 ## Public domain
 

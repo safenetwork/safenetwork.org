@@ -1,0 +1,13 @@
+.btn-safenetwork {
+  font-weight: 500;
+  color: $safenetwork-blue;
+  border-color: $safenetwork-blue;
+
+  &:hover,
+  &:focus,
+  &:active {
+    color: #fff;
+    background-color: $safenetwork-blue;
+    border-color: $safenetwork-blue;
+  }
+}

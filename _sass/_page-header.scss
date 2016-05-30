@@ -1,0 +1,29 @@
+.safenetwork-pageheader {
+  padding-top: 2rem;
+  padding-bottom: 1.5rem;
+  margin-bottom: 1.5rem;
+  color: $safenetwork-blue-light;
+  text-align: center;
+  background-color: $safenetwork-blue;
+
+  .container {
+    position: relative;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #fff;
+  }
+
+  @include media-breakpoint-up(sm) {
+    margin-bottom: 2rem;
+    text-align: left;
+  }
+
+  @include media-breakpoint-up(md) {
+    h1 {
+      font-size: 3.5rem;
+    }
+  }
+}
