@@ -9,7 +9,7 @@ learn and socialize with other people with a similar interest. Meetups are usual
 everyone. If you have started a new meetup group and would like to add it to
 this list, please announce it in [#initiatives](https://forum.safenetwork.io/c/community/initiatives) or
 even better, open a pull request against
-[this website](https://github.com/safenetwork/safenetwork.org/blob/master/meetup-groups.md).
+[this website](https://github.com/safenetwork/safenetwork.org/blob/gh-pages/meetup-groups.md).
 
 ## Australia
 
