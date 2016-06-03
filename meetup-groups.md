@@ -11,6 +11,10 @@ this list, please announce it in [#initiatives](https://forum.safenetwork.io/c/c
 even better, open a pull request against
 [this website](https://github.com/safenetwork/safenetwork.org/blob/gh-pages/meetup-groups.md).
 
+## Argentina
+
+[MaidSafe Córdoba](http://www.meetup.com/MaidSafe-Cordoba/)
+
 ## Australia
 
 [Sydney Project SAFE](http://www.meetup.com/Sydney-Project-SAFE/)
@@ -18,6 +22,10 @@ even better, open a pull request against
 ## Canada
 
 [SAFE Network Montreal](https://montreal.safenetwork.org/)
+
+## Colombia
+
+[Bogotá Blockchain-dev](http://www.meetup.com/Bogota-Blockchain-dev-Bitcoin-Ethereum-etc-Meetup/)
 
 ## Hungary
 
