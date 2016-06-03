@@ -48,12 +48,12 @@ We also recommend the following pages:
 
 ## Core Development
 
-- [safe_core](http://maidsafe.net/safe_core/master/safe_core/index.html)
-- [self_encryption](http://maidsafe.net/self_encryption/master/self_encryption/index.html)
-- [safe_vault](http://maidsafe.net/safe_vault/master/safe_vault/index.html)
-- [routing](http://maidsafe.net/routing/master/routing/index.html)
-- [kademlia_routing_table](http://maidsafe.net/kademlia_routing_table/master/kademlia_routing_table/index.html)
-- [crust](http://maidsafe.net/crust/master/crust/index.html)
+- [safe_core](https://maidsafe.github.io/safe_core/master/safe_core/index.html)
+- [self_encryption](https://maidsafe.github.io/self_encryption/master/self_encryption/index.html)
+- [safe_vault](https://maidsafe.github.io/safe_vault/master/safe_vault/index.html)
+- [routing](https://maidsafe.github.io/routing/master/routing/index.html)
+- [kademlia_routing_table](https://maidsafe.github.io/kademlia_routing_table/master/kademlia_routing_table/index.html)
+- [crust](https://maidsafe.github.io/crust/master/crust/index.html)
 
 ### RFCs
 
