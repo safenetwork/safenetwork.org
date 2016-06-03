@@ -40,13 +40,12 @@ We also recommend the following pages:
 - [Technical Videos](https://www.youtube.com/playlist?list=PL7GqwP0KrKTpDLsQwk_gixasgCcUuL9H5)
 - [FAQ Videos](https://www.youtube.com/playlist?list=PL7GqwP0KrKTrE88kD-39FKKrydTGJQEUx)
 
-## App Development
+## APIs
 
-- [SAFE Launcher](/downloads/#safe-launcher)
-<!-- - [SAFE Launcher API](https://maidsafe.readme.io/docs/introduction) -->
-- [SAFE Examples](https://github.com/maidsafe/safe_examples)
+- [SAFE Launcher API](https://maidsafe.readme.io/docs/introduction)
+- [SAFE Demo App](https://github.com/maidsafe/safe_examples/tree/master/demo_app)
 
-## Core Development
+## Core Libraries
 
 - [safe_core](https://maidsafe.github.io/safe_core/master/safe_core/index.html)
 - [self_encryption](https://maidsafe.github.io/self_encryption/master/self_encryption/index.html)
