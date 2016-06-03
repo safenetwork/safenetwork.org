@@ -50,10 +50,9 @@ See also [#events](https://forum.safenetwork.io/c/community/events).
 - [SAFE Network Roadmap](http://maidsafe.net/roadmap.html#network)
 - [SAFE Network RFCs](https://github.com/maidsafe/rfcs)
 - [#development](https://forum.safenetwork.io/c/development)
-<!-- - [JIRA issue tracker](https://maidsafe.atlassian.net) -->
-- [MaidSafe Code Bounty Program](http://blog.maidsafe.net/2015/07/08/maidsafe-code-bounty-program/)
-- [Job opportunities at MaidSafe](http://maidsafe.net/company.html#join-our-team)
-- [SAFE Pods](https://blog.maidsafe.net/2014/06/12/safe-pods-and-decentralizing-project-safe-development/)
+<!-- [JIRA issue tracker](https://maidsafe.atlassian.net) -->
+<!-- [MaidSafe Code Bounty Program](http://blog.maidsafe.net/2015/07/08/maidsafe-code-bounty-program/) -->
+<!-- [SAFE Pods](https://blog.maidsafe.net/2014/06/12/safe-pods-and-decentralizing-project-safe-development/) -->
 
 ## Apps
 
@@ -78,3 +77,4 @@ See also [#events](https://forum.safenetwork.io/c/community/events).
 - [Promotional Videos](https://www.youtube.com/playlist?list=PL7GqwP0KrKTrk-mpXxPb1l-oyfTHoZIdK)
 - [Presentations](https://www.youtube.com/playlist?list=PL7GqwP0KrKTp8FmcJMdC9xCm3YA1oQwqM)
 - [Interviews](https://www.youtube.com/playlist?list=PL7GqwP0KrKTrW09U4rHgD5kDhJGNFFU-b)
+- [#videos](https://forum.safenetwork.io/c/community/videos)
