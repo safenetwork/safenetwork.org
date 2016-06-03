@@ -65,6 +65,7 @@ See also [#events](https://forum.safenetwork.io/c/community/events).
 
 - [blog.maidsafe.net](https://blog.maidsafe.net)
 - [metaquestions.me](http://metaquestions.me/)
+- [#blogs](https://forum.safenetwork.io/c/community/blogs)
 
 ## Podcasts
 
