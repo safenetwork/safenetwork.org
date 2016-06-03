@@ -77,4 +77,5 @@ See also [#events](https://forum.safenetwork.io/c/community/events).
 - [Promotional Videos](https://www.youtube.com/playlist?list=PL7GqwP0KrKTrk-mpXxPb1l-oyfTHoZIdK)
 - [Presentations](https://www.youtube.com/playlist?list=PL7GqwP0KrKTp8FmcJMdC9xCm3YA1oQwqM)
 - [Interviews](https://www.youtube.com/playlist?list=PL7GqwP0KrKTrW09U4rHgD5kDhJGNFFU-b)
+- [Tutorials](https://www.youtube.com/playlist?list=PL7GqwP0KrKTqUKiSCDCRQDiRhznbeZjRu)
 - [#videos](https://forum.safenetwork.io/c/community/videos)
