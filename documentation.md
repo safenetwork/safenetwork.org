@@ -26,9 +26,8 @@ We also recommend the following pages:
 
 ## Blog posts
 
-- [Consensus Without a Blockchain](https://blog.maidsafe.net/2015/01/29/consensus-without-a-blockchain/)
 - [Structuring Networks with XOR](https://blog.maidsafe.net/2016/05/27/structuring-networks-with-xor/)
-- [The language of the network](https://metaquestions.me/2015/02/05/the-language-of-the-network/)
+- [Introduction & Technical Overview of SAFE Consensus](https://blog.maidsafe.net/2016/06/23/introduction-technical-overview-of-safe-consensus/)
 
 ## Podcasts
 
