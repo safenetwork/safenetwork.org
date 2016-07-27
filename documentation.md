@@ -28,6 +28,7 @@ We also recommend the following pages:
 
 - [Structuring Networks with XOR](https://blog.maidsafe.net/2016/05/27/structuring-networks-with-xor/)
 - [Introduction & Technical Overview of SAFE Consensus](https://blog.maidsafe.net/2016/06/23/introduction-technical-overview-of-safe-consensus/)
+- [Data chains: what? why? how?](https://metaquestions.me/2016/07/20/data-chains-what-why-how/)
 
 ## Podcasts
 
@@ -53,10 +54,13 @@ We also recommend the following pages:
 - [kademlia_routing_table](http://docs.maidsafe.net/kademlia_routing_table/master/kademlia_routing_table/index.html)
 - [crust](http://docs.maidsafe.net/crust/master/crust/index.html)
 
-### RFCs
+## RFCs
 
-- [Active RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md#active-rfcs)
-- [Proposed RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md#proposed-rfcs)
-- [Agreed RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md#agreed-rfcs)
-- [Implemented RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md#implemented-rfcs)
-- [Rejected RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md#rejected-rfcs)
+- [Unify Structured Data](https://github.com/maidsafe/rfcs/blob/master/text/0000-unified-structured-data/0000-unified-structured-data.md)
+- [Reserved Names](https://github.com/maidsafe/rfcs/blob/master/text/0003-reserved-names/0003-reserved-names.md)
+- [Launcher as a local Rest Server](https://github.com/maidsafe/rfcs/blob/master/text/0018-launcher-as-rest-server/0018-launcher-as-local-rest-server.md)
+- [Routing Message Acknowledgements](https://github.com/maidsafe/rfcs/blob/master/text/0035-routing-message-acknowledgements/0035-routing-message-acknowledgements.md)
+- [safe_launcher API v0.5](https://github.com/maidsafe/rfcs/blob/master/text/0036-launcher-api-v0.5/0036-launcher-api-v0.5.md)
+- [Disjoint Groups](https://github.com/maidsafe/rfcs/blob/master/text/0037-disjoint-groups/0037-disjoint-groups.md)
+- [Nodes key as name](https://github.com/maidsafe/rfcs/blob/master/text/0030-secure-node-join/0030-nodes_key_as_name.md)
+- [Safecoin Implementation](https://github.com/maidsafe/rfcs/blob/master/text/0012-safecoin-implementation/0012-safecoin-implementation.md)
