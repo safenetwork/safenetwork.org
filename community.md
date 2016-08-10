@@ -11,7 +11,7 @@ For less frequent updates, you can subscribe to the [MaidSafe Blog](https://blog
 We also recommend:
 
 - [/r/safenetwork](https://www.reddit.com/r/safenetwork) (Reddit)
-- [@maidsafe](https://twitter.com/maidsafe) (Twitter)
+- [@maidsafe](https://twitter.com/maidsafe) & [@safenetforum](https://twitter.com/safenetforum) (Twitter)
 - [#press](https://forum.safenetwork.io/c/press)
 <!-- - [This Week in SAFE](http://eepurl.com/btCCob) (a weekly newsletter) -->
 
