@@ -15,11 +15,10 @@ title: Documentation
 
 ## SAFE Launcher API
 
-- [SAFE Launcher API](https://maidsafe.readme.io/docs/auth)
-- [Introduction](https://maidsafe.readme.io/docs/introduction)
-- [Network File System (NFS)](https://maidsafe.readme.io/docs/network-file-system-nfs)
-- [Domain Name System (DNS)](https://maidsafe.readme.io/docs/domain-name-system-dns)
-- [SAFE Demo App](https://github.com/maidsafe/safe_examples/tree/master/demo_app)
+- [SAFE API Docs](https://api.safedev.org)
+- [SAFE Dev Tutorials](https://tutorials.safedev.org/)
+- [SAFE Examples](https://github.com/maidsafe/safe_examples)
+- [#support](https://forum.safedev.org/c/support)
 
 ## Core Libraries
 
@@ -29,16 +28,12 @@ title: Documentation
 - [safe_vault](http://docs.maidsafe.net/safe_vault/master/safe_vault/index.html)
 - [self_encryption](http://docs.maidsafe.net/self_encryption/master/self_encryption/index.html)
 
-## RFCs
+## Active RFCs
 
-- [Unify Structured Data](https://github.com/maidsafe/rfcs/blob/master/text/0000-unified-structured-data/0000-unified-structured-data.md)
-- [Reserved Names](https://github.com/maidsafe/rfcs/blob/master/text/0003-reserved-names/0003-reserved-names.md)
-- [Launcher as a local Rest Server](https://github.com/maidsafe/rfcs/blob/master/text/0018-launcher-as-rest-server/0018-launcher-as-local-rest-server.md)
-- [Routing Message Acknowledgements](https://github.com/maidsafe/rfcs/blob/master/text/0035-routing-message-acknowledgements/0035-routing-message-acknowledgements.md)
-- [safe_launcher API v0.5](https://github.com/maidsafe/rfcs/blob/master/text/0036-launcher-api-v0.5/0036-launcher-api-v0.5.md)
-- [Disjoint Groups](https://github.com/maidsafe/rfcs/blob/master/text/0037-disjoint-groups/0037-disjoint-groups.md)
-- [Nodes key as name](https://github.com/maidsafe/rfcs/blob/master/text/0030-secure-node-join/0030-nodes_key_as_name.md)
-- [Safecoin Implementation](https://github.com/maidsafe/rfcs/blob/master/text/0012-safecoin-implementation/0012-safecoin-implementation.md)
+- [RFC 37 – Disjoint Groups](https://github.com/maidsafe/rfcs/blob/master/text/0037-disjoint-groups/0037-disjoint-groups.md)
+- [RFC 38 – Appendable Data](https://github.com/maidsafe/rfcs/blob/master/text/0038-appendable-data/0038-appendable-data.md)
+- [RFC 41 – Low Level API](https://github.com/maidsafe/rfcs/blob/master/text/0041-low-level-api/0041-low-level-api.md)
+- [RFC 42 – SAFE Launcher API v0.6](https://github.com/maidsafe/rfcs/blob/master/text/0042-launcher-api-v0.6/0042-launcher-api-v0.6.md)
 
 ## SAFE Network Wiki
 

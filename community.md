@@ -10,8 +10,8 @@ For less frequent updates, you can subscribe to the [MaidSafe Blog](https://blog
 
 We also recommend:
 
-- [/r/safenetwork](https://www.reddit.com/r/safenetwork) (Reddit)
-- [@maidsafe](https://twitter.com/maidsafe) & [@safenetforum](https://twitter.com/safenetforum) (Twitter)
+- [@maidsafe](https://twitter.com/maidsafe) (Twitter)
+- [@safenetforum](https://twitter.com/safenetforum) (Twitter)
 - [#press](https://safenetforum.org/c/press)
 <!-- - [This Week in SAFE](http://eepurl.com/btCCob) (a weekly newsletter) -->
 
@@ -20,23 +20,25 @@ We also recommend:
 Here are the best places to ask for help:
 
 - Ask questions on the [SAFE Network Forum](https://safenetforum.org/) (e.g., in [#support](https://safenetforum.org/c/support))
-- Get live support on [Discord](https://discord.safenetwork.org) (voice and text chat)
+- Get live support on [#safenetwork:matrix.org](https://riot.im/app/#/room/#safenetwork:matrix.org)
 
-## Forums
+## Discussion Forums
 
 The [SAFE Network Forum](https://safenetforum.org) is the main discussion forum of the SAFE Network community.
 
-Alternative: [/r/safenetwork](https://www.reddit.com/r/safenetwork) (Reddit)
+We also use the following subreddits:
+
+- [/r/safenetwork](https://www.reddit.com/r/safenetwork)
+- [/r/maidsafe](https://www.reddit.com/r/maidsafe/)
 
 ## Chats
 
-Many community members use [#safenetwork](https://kiwiirc.com/client/irc.freenode.net/safenetwork) on freenode to chat.
+The [#safenetwork:matrix.org](https://riot.im/app/#/room/#safenetwork:matrix.org) channel can be used for general discussion about the SAFE Network, and it's a good place to ask for help.
 
-Alternatives:
+This channel is bridged with:
 
-- [#safenetwork:matrix.org](https://vector.im/beta/#/room/#safenetwork:matrix.org) (Matrix)
-- [Discord](https://discourse.safenetwork.org)
-<!-- - [Slack](https://slack.safenetwork.org) (we are trying to move away from Slack because it has [many limitations](https://facebook.github.io/react/blog/2015/10/19/reactiflux-is-moving-to-discord.html)) -->
+- [#safenetwork](https://kiwiirc.com/client/irc.freenode.net/safenetwork) (irc.freenode.net)
+- [SAFE Network Slack](https://slack.safenetwork.org) (#general)
 
 ## Meetup Groups
 
@@ -47,28 +49,31 @@ See also [#events](https://safenetforum.org/c/community/events).
 ## Development
 
 - [GitHub repositories](https://github.com/maidsafe)
-- [SAFE Network Roadmap](http://maidsafe.net/roadmap.html#network)
 - [SAFE Network RFCs](https://github.com/maidsafe/rfcs)
+- [SAFE Dev Forum](https://forum.safedev.org/)
+- [SAFE API Docs](https://api.safedev.org/)
+- [SAFE Dev Tutorials](https://tutorials.safedev.org/)
+- [SAFE Network Roadmap](https://maidsafe.net/roadmap_dev.html)
 - [#development](https://safenetforum.org/c/development)
 <!-- [JIRA issue tracker](https://maidsafe.atlassian.net) -->
-<!-- [MaidSafe Code Bounty Program](http://blog.maidsafe.net/2015/07/08/maidsafe-code-bounty-program/) -->
-<!-- [SAFE Pods](https://blog.maidsafe.net/2014/06/12/safe-pods-and-decentralizing-project-safe-development/) -->
+<!-- [MaidSafe Code Bounty Program](https://blog.maidsafe.net/2015/07/08/maidsafe-code-bounty-program/) -->
 
 ## Apps
 
-- [apps.safenetwork.org](https://apps.safenetwork.org/)
-- [“Live” Community Apps](https://safenetforum.org/t/live-community-apps/9494)
+- [SAFE App Directory](https://apps.safenetwork.org/)
+- [All the active Apps for the SAFE Network](https://safenetforum.org/t/all-the-active-apps-for-the-safe-network/11293)
 - [#apps](https://safenetforum.org/c/apps)
 
 ## Blogs
 
 - [blog.maidsafe.net](https://blog.maidsafe.net)
 - [metaquestions.me](http://metaquestions.me/)
+- [safecrossroads.net](http://www.safecrossroads.net/articles/)
 - [#blogs](https://safenetforum.org/c/community/blogs)
 
 ## Podcasts
 
-- [SAFE Crossroads Podcast](http://safecrossroads.net)
+- [SAFE Crossroads Podcast](http://www.safecrossroads.net/podcasts/)
 - [LIFE IS PEOPLE](https://www.youtube.com/channel/UC7s9jwN1LFor8UYZVIxNfgw)
 - [#podcasts](https://safenetforum.org/c/community/podcasts)
 
