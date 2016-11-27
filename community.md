@@ -10,8 +10,8 @@ For less frequent updates, you can subscribe to the [MaidSafe Blog](https://blog
 
 We also recommend:
 
-- [@maidsafe](https://twitter.com/maidsafe) (Twitter)
-- [@safenetforum](https://twitter.com/safenetforum) (Twitter)
+- [@maidsafe](https://twitter.com/maidsafe) on Twitter
+- [@safenetforum](https://twitter.com/safenetforum) on Twitter
 - [#press](https://safenetforum.org/c/press)
 <!-- - [This Week in SAFE](http://eepurl.com/btCCob) (a weekly newsletter) -->
 
