@@ -11,6 +11,19 @@ The most important resources for those new to the SAFE Network are:
 - [maidsafe.net](https://maidsafe.net), the website of MaidSafe, a Scottish company that has been working on designing and implementing the SAFE Network since 2006.
 <!-- - The [SAFE Dev Forum](https://forum.safedev.org), a discussion forum about the core libraries and APIs of the SAFE Network. -->
 
+## Apps
+
+- [apps.safenetwork.org](https://apps.safenetwork.org/)
+- [All the active Apps for the SAFE Network](https://safenetforum.org/t/all-the-active-apps-for-the-safe-network/11293)
+- [#apps](https://safenetforum.org/c/apps)
+
+## Support
+
+Here are the best places to ask for help:
+
+- Ask questions on the [SAFE Network Forum](https://safenetforum.org/) (e.g., in [#support](https://safenetforum.org/c/support))
+- Get live support on [#safenetwork:matrix.org](https://riot.im/app/#/room/#safenetwork:matrix.org)
+
 ## News
 
 The best way to follow the progress is to read the MaidSafe Dev Updates, which are published every week (usually on Tuesdays) in [#updates](https://safenetforum.org/c/development/updates).<br>
@@ -22,13 +35,6 @@ We also recommend:
 - [@safenetforum](https://twitter.com/safenetforum) on Twitter
 - [#press](https://safenetforum.org/c/press)
 <!-- - [This Week in SAFE](http://eepurl.com/btCCob) (a weekly newsletter) -->
-
-## Support
-
-Here are the best places to ask for help:
-
-- Ask questions on the [SAFE Network Forum](https://safenetforum.org/) (e.g., in [#support](https://safenetforum.org/c/support))
-- Get live support on [#safenetwork:matrix.org](https://riot.im/app/#/room/#safenetwork:matrix.org)
 
 ## Chats
 
@@ -53,21 +59,15 @@ See also [#events](https://safenetforum.org/c/community/events).
 
 ## Development
 
-- [Core libraries](https://github.com/maidsafe)
-- [SAFE Network RFCs](https://github.com/maidsafe/rfcs)
-- [SAFE Dev Forum](https://forum.safedev.org/)
 - [SAFE API Docs](https://api.safedev.org/)
 - [SAFE Dev Tutorials](https://tutorials.safedev.org/)
-- [SAFE Network Roadmap](https://maidsafe.net/roadmap_dev.html)
+- [SAFE Dev Forum](https://forum.safedev.org/)
+- [Core Libraries](https://github.com/maidsafe)
+- [SAFE Network RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md)
+- [Development Roadmap](https://maidsafe.net/roadmap_dev.html)
 - [#development](https://safenetforum.org/c/development)
 <!-- [JIRA issue tracker](https://maidsafe.atlassian.net) -->
 <!-- [MaidSafe Code Bounty Program](https://blog.maidsafe.net/2015/07/08/maidsafe-code-bounty-program/) -->
-
-## Apps
-
-- [apps.safenetwork.org](https://apps.safenetwork.org/)
-- [All the active Apps for the SAFE Network](https://safenetforum.org/t/all-the-active-apps-for-the-safe-network/11293)
-- [#apps](https://safenetforum.org/c/apps)
 
 ## Blogs
 
