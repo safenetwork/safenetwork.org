@@ -62,10 +62,10 @@ See also [#events](https://safenetforum.org/c/community/events).
 - [SAFE API Docs](https://api.safedev.org/)
 - [SAFE Dev Tutorials](https://tutorials.safedev.org/)
 - [SAFE Dev Forum](https://forum.safedev.org/)
-- [Core Libraries](https://github.com/maidsafe)
 - [SAFE Network RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md)
-- [Development Roadmap](https://maidsafe.net/roadmap_dev.html)
-- [#development](https://safenetforum.org/c/development)
+- [GitHub repositories](https://github.com/maidsafe)
+- [Roadmap](https://maidsafe.net/roadmap_dev.html)
+<!-- - [#development](https://safenetforum.org/c/development) -->
 <!-- [JIRA issue tracker](https://maidsafe.atlassian.net) -->
 <!-- [MaidSafe Code Bounty Program](https://blog.maidsafe.net/2015/07/08/maidsafe-code-bounty-program/) -->
 
