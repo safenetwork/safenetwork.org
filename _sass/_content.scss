@@ -7,12 +7,19 @@
     margin-bottom: 1.5rem;
   }
 
+  @include media-breakpoint-down(sm) {
+    h2 {
+      font-size: 1.75rem;
+    }
+  }
+
   > h3 {
     margin-top: 1.5rem;
   }
 
   h5 {
     margin-top: 2rem;
+    margin-bottom: .75rem;
   }
 
   > ul li,
