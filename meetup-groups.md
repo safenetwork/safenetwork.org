@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: Meetup Groups
+title: Meetup groups
 ---
 
 SAFE Network enthusiasts meet periodically in meetup
