@@ -28,7 +28,7 @@ title: Documentation
 - [safe_vault](http://docs.maidsafe.net/safe_vault/master/safe_vault/index.html)
 - [self_encryption](http://docs.maidsafe.net/self_encryption/master/self_encryption/index.html)
 
-## RFCs
+## SAFE Network RFCs
 
 - [Active RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md#active-rfcs)
 - [Proposed RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md#proposed-rfcs)
