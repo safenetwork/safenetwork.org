@@ -37,8 +37,8 @@ The [#safenetwork:matrix.org](https://riot.im/app/#/room/#safenetwork:matrix.org
 
 This channel is bridged with:
 
-- [#safenetwork](https://kiwiirc.com/client/irc.freenode.net/safenetwork) (irc.freenode.net)
-- [SAFE Network Slack](https://slack.safenetwork.org) (#general)
+- [#safenetwork](https://kiwiirc.com/client/irc.freenode.net/safenetwork) on freenode
+- [safenetwork.slack.com](https://slack.safenetwork.org)
 
 ## Meetup groups
 
