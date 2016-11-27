@@ -4,7 +4,6 @@
   font-size: 1rem;
   line-height: 1.5;
   color: #555;
-  text-align: center;
   background-color: #fff;
   border-top: 1px solid #eee;
 
@@ -18,10 +17,6 @@
     margin-left: auto;
     font-size: 1rem;
     text-align: center;
-  }
-
-  @include media-breakpoint-up(sm) {
-    text-align: left;
   }
 
   @include media-breakpoint-up(md) {

@@ -22,7 +22,7 @@ Here are the best places to ask for help:
 - Ask questions on the [SAFE Network Forum](https://safenetforum.org/) (e.g., in [#support](https://safenetforum.org/c/support))
 - Get live support on [#safenetwork:matrix.org](https://riot.im/app/#/room/#safenetwork:matrix.org)
 
-## Discussion Forums
+## Forums
 
 The [SAFE Network Forum](https://safenetforum.org) is the main discussion forum of the SAFE Network community.
 
@@ -40,7 +40,7 @@ This channel is bridged with:
 - [#safenetwork](https://kiwiirc.com/client/irc.freenode.net/safenetwork) (irc.freenode.net)
 - [SAFE Network Slack](https://slack.safenetwork.org) (#general)
 
-## Meetup Groups
+## Meetup groups
 
 SAFE Network enthusiasts meet periodically in [meetup groups](/meetup-groups/). It's a great introduction to the community and a great way to learn and socialize with other people with a similar interest. Meetups are usually informal and open to everyone.
 
@@ -60,7 +60,7 @@ See also [#events](https://safenetforum.org/c/community/events).
 
 ## Apps
 
-- [SAFE App Directory](https://apps.safenetwork.org/)
+- [apps.safenetwork.org](https://apps.safenetwork.org/)
 - [All the active Apps for the SAFE Network](https://safenetforum.org/t/all-the-active-apps-for-the-safe-network/11293)
 - [#apps](https://safenetforum.org/c/apps)
 

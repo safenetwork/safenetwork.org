@@ -20,7 +20,7 @@ title: Documentation
 - [SAFE Examples](https://github.com/maidsafe/safe_examples)
 <!-- - [#support](https://forum.safedev.org/c/support) -->
 
-## Core Libraries
+## Core libraries
 
 - [crust](http://docs.maidsafe.net/crust/master/crust/index.html)
 - [routing](http://docs.maidsafe.net/routing/master/routing/index.html)
