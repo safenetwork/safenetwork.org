@@ -9,15 +9,17 @@ learn and socialize with other people with a similar interest. Meetups are usual
 everyone. If you have started a new meetup group and would like to add it to
 this list, please announce it in [#initiatives](https://safenetforum.org/c/community/initiatives) or
 even better, open a pull request against
-[this website](https://github.com/safenetwork/safenetwork.org/blob/gh-pages/meetup-groups.md).
+[this website](https://github.com/safenetwork/safenetwork.org/blob/master/meetup-groups.md).
 
 ## Argentina
 
-[MaidSafe Córdoba](http://www.meetup.com/MaidSafe-Cordoba/)
+[SAFEdev Córdoba](https://www.meetup.com/SAFEdevs-Cordoba/)
 
 ## Australia
 
-[Sydney Project SAFE](http://www.meetup.com/Sydney-Project-SAFE/)
+[SAFEdev Melbourne](https://www.meetup.com/SAFEdev-Melbourne/)
+
+[Sydney Project SAFE](https://www.meetup.com/Sydney-Project-SAFE/)
 
 ## Canada
 
@@ -25,22 +27,26 @@ even better, open a pull request against
 
 ## Colombia
 
-[Bogotá Blockchain-dev](http://www.meetup.com/Bogota-Blockchain-dev-Bitcoin-Ethereum-etc-Meetup/)
+[Bogotá Blockchain-dev](https://www.meetup.com/Bogota-Blockchain-dev-Bitcoin-Ethereum-etc-Meetup/)
+
+## Germany
+
+[SAFEdev Berlin](https://www.meetup.com/SAFEdev-Berlin/)
 
 ## Hungary
 
-[De-Central Budapest](http://www.meetup.com/De-Central-Budapest/)
+[De-Central Budapest](https://www.meetup.com/De-Central-Budapest/)
 
 ## Netherlands
 
-[Project SAFE: Amsterdam](http://www.meetup.com/maidsafe/)
+[SAFEdev Amsterdam](https://www.meetup.com/SAFEdev-Amsterdam/)
 
 ## UK
 
-[Project SAFE: London](http://www.meetup.com/Project-SAFE-London/)
+[Project SAFE: London](https://www.meetup.com/Project-SAFE-London/)
 
 ## USA
 
-[Project SAFE: Boston](http://www.meetup.com/Project-SAFE-Boston/)
+[SAFEdev Boston](https://www.meetup.com/SAFEdev-boston/)
 
-[Project SAFE: San Francisco](http://www.meetup.com/Project-SAFE-San-Francisco/)
+[SAFEdev San Francisco](https://www.meetup.com/SAFEdev-san-francisco/)

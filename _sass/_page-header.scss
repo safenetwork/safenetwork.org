@@ -11,7 +11,7 @@
   }
 
   h1 {
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: normal;
     color: #fff;
   }
@@ -23,7 +23,7 @@
 
   @include media-breakpoint-up(md) {
     h1 {
-      font-size: 3.5rem;
+      font-size: 3rem;
     }
   }
 }

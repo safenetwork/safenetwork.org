@@ -1,15 +1,18 @@
 title: SAFE Network
 description: A decentralized data storage and communications network that provides a secure, efficient and no-cost infrastructure for app developers.
-markdown: kramdown
 url: "https://safenetwork.org"
 
-permalink: pretty
-
 exclude:
-  - CNAME
-  - Gemfile
-  - LICENSE.md
   - README.md
+  - LICENSE.md
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
 
+markdown: kramdown
+kramdown:
+  input: GFM
 sass:
   style: :compressed
+
+permalink: pretty

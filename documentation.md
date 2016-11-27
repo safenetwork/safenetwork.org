@@ -13,12 +13,12 @@ title: Documentation
 - [Install SAFE Demo App](https://maidsafe.readme.io/docs/install-demo-app)
 - [Using SAFE Demo App](https://maidsafe.readme.io/docs/demo-app)
 
-## SAFE Launcher API
+## SAFE API
 
 - [SAFE API Docs](https://api.safedev.org)
 - [SAFE Dev Tutorials](https://tutorials.safedev.org/)
 - [SAFE Examples](https://github.com/maidsafe/safe_examples)
-- [#support](https://forum.safedev.org/c/support)
+<!-- - [#support](https://forum.safedev.org/c/support) -->
 
 ## Core Libraries
 
@@ -28,12 +28,13 @@ title: Documentation
 - [safe_vault](http://docs.maidsafe.net/safe_vault/master/safe_vault/index.html)
 - [self_encryption](http://docs.maidsafe.net/self_encryption/master/self_encryption/index.html)
 
-## Active RFCs
+## RFCs
 
-- [RFC 37 – Disjoint Groups](https://github.com/maidsafe/rfcs/blob/master/text/0037-disjoint-groups/0037-disjoint-groups.md)
-- [RFC 38 – Appendable Data](https://github.com/maidsafe/rfcs/blob/master/text/0038-appendable-data/0038-appendable-data.md)
-- [RFC 41 – Low Level API](https://github.com/maidsafe/rfcs/blob/master/text/0041-low-level-api/0041-low-level-api.md)
-- [RFC 42 – SAFE Launcher API v0.6](https://github.com/maidsafe/rfcs/blob/master/text/0042-launcher-api-v0.6/0042-launcher-api-v0.6.md)
+- [Active RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md#active-rfcs)
+- [Proposed RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md#proposed-rfcs)
+- [Agreed RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md#agreed-rfcs)
+- [Implemented RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md#implemented-rfcs)
+- [Rejected RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md#rejected-rfcs)
 
 ## SAFE Network Wiki
 

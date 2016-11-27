@@ -1,16 +1,12 @@
-//
-// Footer
-//
-
-.bd-footer {
-  padding: 4rem 0;
-  margin-top: 3.5rem;
+.footer {
+  padding: 3rem 0;
+  margin-top: 3rem;
   font-size: 85%;
   text-align: center;
   background-color: #f7f7f7;
 
   a {
-    font-weight: 600;
+    font-weight: 500;
     color: $gray;
 
     &:hover {
@@ -27,7 +23,7 @@
   }
 }
 
-.bd-footer-links {
+.footer-links {
   padding-left: 0;
   margin-bottom: 1rem;
 
