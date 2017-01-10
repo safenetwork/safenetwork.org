@@ -26,7 +26,7 @@ Here are the best places to ask for help:
 
 ## News
 
-The best way to follow the progress is to read the MaidSafe Dev Updates, which are published every week (usually on Tuesdays) in [#updates](https://safenetforum.org/c/development/updates).<br>
+The best way to follow the progress is to read the MaidSafe Dev Updates, which are published every week (on Thursdays) in [#updates](https://safenetforum.org/c/development/updates).<br>
 For less frequent updates, you can subscribe to the [MaidSafe Blog](https://blog.maidsafe.net).
 
 We also recommend:
