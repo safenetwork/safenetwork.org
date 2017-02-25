@@ -22,9 +22,9 @@ title: Documentation
 
 ## Core libraries
 
-- [crust](http://docs.maidsafe.net/crust/master/crust/index.html)
-- [routing](http://docs.maidsafe.net/routing/master/routing/index.html)
-- [safe_core](http://docs.maidsafe.net/safe_core/master/safe_core/index.html)
+- [crust](https://docs.rs/crust/)
+- [routing](https://docs.rs/routing/)
+- [safe_core](http://docs.maidsafe.net/safe_client_libs/master/safe_core/index.html)
 - [safe_vault](http://docs.maidsafe.net/safe_vault/master/safe_vault/index.html)
 - [self_encryption](http://docs.maidsafe.net/self_encryption/master/self_encryption/index.html)
 
