@@ -15,7 +15,7 @@ By contributing to this website, you dedicate your work to the public domain and
 
 \* You should ensure you have [Bundler](https://bundler.io/) installed.
 
-If you're not sure how to open a pull request, feel free to <a href="https://github.com/safenetwork/apps.safenetwork.org/issues/new">open an issue</a> instead.
+If you're not sure how to open a pull request, feel free to <a href="https://github.com/safenetwork/safenetwork.org/issues/new">open an issue</a> instead.
 
 ## Credits
 
