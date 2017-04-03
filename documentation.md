@@ -24,9 +24,9 @@ title: Documentation
 
 - [crust](https://docs.rs/crust/)
 - [routing](https://docs.rs/routing/)
-- [safe_core](http://docs.maidsafe.net/safe_client_libs/master/safe_core/index.html)
-- [safe_vault](http://docs.maidsafe.net/safe_vault/master/safe_vault/index.html)
-- [self_encryption](http://docs.maidsafe.net/self_encryption/master/self_encryption/index.html)
+- [safe_core](https://docs.rs/safe_core)
+- [safe_vault](https://docs.rs/safe_vault)
+- [self_encryption](https://docs.rs/self_encryption)
 
 ## SAFE Network RFCs
 
