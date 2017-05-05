@@ -34,7 +34,6 @@ We also recommend:
 - [@maidsafe](https://twitter.com/maidsafe) on Twitter
 - [@safenetforum](https://twitter.com/safenetforum) on Twitter
 - [#press](https://safenetforum.org/c/press)
-<!-- - [This Week in SAFE](http://eepurl.com/btCCob) (a weekly newsletter) -->
 
 ## Chats
 
@@ -74,7 +73,7 @@ See also [#events](https://safenetforum.org/c/community/events).
 - [blog.maidsafe.net](https://blog.maidsafe.net)
 - [metaquestions.me](http://metaquestions.me/)
 - [safecrossroads.net](http://www.safecrossroads.net/articles/)
-- [#blogs](https://safenetforum.org/c/community/blogs)
+- [#blog-posts](https://safenetforum.org/c/community/blog-posts)
 
 ## Podcasts
 
