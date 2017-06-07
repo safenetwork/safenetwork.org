@@ -5,12 +5,12 @@ title: Documentation
 
 ## SAFE Launcher
 
-- [Install SAFE Launcher](https://maidsafe.readme.io/docs/install-launcher)
+<!-- - [Install SAFE Launcher](https://maidsafe.readme.io/docs/install-launcher) -->
 - [Using SAFE Launcher](https://maidsafe.readme.io/docs/launcher)
 
 ## SAFE Demo App
 
-- [Install SAFE Demo App](https://maidsafe.readme.io/docs/install-demo-app)
+<!-- - [Install SAFE Demo App](https://maidsafe.readme.io/docs/install-demo-app) -->
 - [Using SAFE Demo App](https://maidsafe.readme.io/docs/demo-app)
 
 ## SAFE API
