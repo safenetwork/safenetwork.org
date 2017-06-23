@@ -45,4 +45,4 @@ even better, open a pull request against
 
 [SAFEdev Boston](https://www.meetup.com/SAFEdev-boston/)
 
-[SAFEdev San Francisco](https://www.meetup.com/SAFEdev-san-francisco/)
+[SAFE Network: San Francisco](https://www.meetup.com/safeSF/)
