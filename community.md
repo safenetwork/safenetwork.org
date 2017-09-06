@@ -7,9 +7,9 @@ title: Community
 
 The most important resources for those new to the SAFE Network are:
 
-- The [SAFE Network Forum](https://safenetforum.org), the main discussion forum of the SAFE Network community.
+- [safenetforum.org](https://safenetforum.org), the main discussion forum of the SAFE Network community.
 - [maidsafe.net](https://maidsafe.net), the website of MaidSafe, a Scottish company that has been working on designing and implementing the SAFE Network since 2006.
-- The [SAFE Dev Forum](https://forum.safedev.org), a discussion forum about the core libraries and APIs of the SAFE Network.
+- [forum.safedev.org](https://forum.safedev.org), a discussion forum about the core libraries and APIs of the SAFE Network.
 
 ## Apps
 

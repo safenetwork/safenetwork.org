@@ -3,20 +3,16 @@ layout: simple
 title: Documentation
 ---
 
-## SAFE Browser
+## SAFE API
 
-- [GitHub repo](https://github.com/maidsafe/safe_browser)
+- [How to develop for the SAFE Network (draft)](https://forum.safedev.org/t/how-to-develop-for-the-safe-network-draft/843)
+- [SAFE Network API - Getting started (draft)](https://forum.safedev.org/t/safe-network-api-getting-started-draft/726)
 
 ## Example apps
 
 - [Web Hosting Manager](https://github.com/maidsafe/safe_examples/tree/master/web_hosting_manager)
 - [SAFE Mail Tutorial](https://github.com/maidsafe/safe_examples/tree/master/email_app)
 - [SAFE Web API Playground](https://github.com/maidsafe/safe_examples/tree/master/safe_web_api_playground)
-
-## SAFE API
-
-- [SAFE Network API - Getting started (draft)](https://forum.safedev.org/t/safe-network-api-getting-started-draft/726)
-- [How to develop for the SAFE Network (draft)](https://forum.safedev.org/t/how-to-develop-for-the-safe-network-draft/843)
 
 ## Core libraries
 
