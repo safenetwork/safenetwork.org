@@ -3,29 +3,29 @@ layout: simple
 title: Documentation
 ---
 
-## SAFE Launcher
+## SAFE Browser
 
-<!-- - [Install SAFE Launcher](https://maidsafe.readme.io/docs/install-launcher) -->
-- [Using SAFE Launcher](https://maidsafe.readme.io/docs/launcher)
+- [GitHub repo](https://github.com/maidsafe/safe_browser)
 
-## SAFE Demo App
+## Example apps
 
-<!-- - [Install SAFE Demo App](https://maidsafe.readme.io/docs/install-demo-app) -->
-- [Using SAFE Demo App](https://maidsafe.readme.io/docs/demo-app)
+- [Web Hosting Manager](https://github.com/maidsafe/safe_examples/tree/master/web_hosting_manager)
+- [SAFE Mail Tutorial](https://github.com/maidsafe/safe_examples/tree/master/email_app)
+- [SAFE Web API Playground](https://github.com/maidsafe/safe_examples/tree/master/safe_web_api_playground)
 
 ## SAFE API
 
-- [SAFE API Docs](https://api.safedev.org)
-- [SAFE Dev Tutorials](https://tutorials.safedev.org/)
-- [SAFE Examples](https://github.com/maidsafe/safe_examples)
-<!-- - [#support](https://forum.safedev.org/c/support) -->
+- [SAFE Network API - Getting started (draft)](https://forum.safedev.org/t/safe-network-api-getting-started-draft/726)
+- [How to develop for the SAFE Network (draft)](https://forum.safedev.org/t/how-to-develop-for-the-safe-network-draft/843)
 
 ## Core libraries
 
-- [crust](https://docs.rs/crust/)
-- [routing](https://docs.rs/routing/)
+- [safe_app](https://docs.rs/safe_app/0.3.1/safe_app/)
+- [safe_authenticator](https://docs.rs/safe_authenticator)
 - [safe_core](https://docs.rs/safe_core)
+- [routing](https://docs.rs/routing/)
 - [safe_vault](https://docs.rs/safe_vault)
+- [crust](https://docs.rs/crust/)
 - [self_encryption](https://docs.rs/self_encryption)
 
 ## SAFE Network RFCs
@@ -65,7 +65,7 @@ We also recommend the following pages:
 
 ## Podcasts
 
-- [SAFE Network School](http://www.safecrossroads.net/safe-network-school/)
+- [SAFE Network School](https://safecrossroads.net/safe-network-school/)
 
 ## Videos
 

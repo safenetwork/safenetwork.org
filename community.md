@@ -9,12 +9,11 @@ The most important resources for those new to the SAFE Network are:
 
 - The [SAFE Network Forum](https://safenetforum.org), the main discussion forum of the SAFE Network community.
 - [maidsafe.net](https://maidsafe.net), the website of MaidSafe, a Scottish company that has been working on designing and implementing the SAFE Network since 2006.
-<!-- - The [SAFE Dev Forum](https://forum.safedev.org), a discussion forum about the core libraries and APIs of the SAFE Network. -->
+- The [SAFE Dev Forum](https://forum.safedev.org), a discussion forum about the core libraries and APIs of the SAFE Network.
 
 ## Apps
 
 - [apps.safenetwork.org](https://apps.safenetwork.org/)
-- [All the active Apps for the SAFE Network](https://safenetforum.org/t/all-the-active-apps-for-the-safe-network/11293)
 - [#apps](https://safenetforum.org/c/apps)
 
 ## Support
@@ -58,26 +57,22 @@ See also [#events](https://safenetforum.org/c/community/events).
 
 ## Development
 
-- [SAFE API Docs](https://api.safedev.org/)
-- [SAFE Dev Tutorials](https://tutorials.safedev.org/)
 - [SAFE Dev Forum](https://forum.safedev.org/)
 - [SAFE Network RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md)
 - [GitHub repositories](https://github.com/maidsafe)
 - [Roadmap](https://maidsafe.net/roadmap_dev.html)
-<!-- - [#development](https://safenetforum.org/c/development) -->
-<!-- [JIRA issue tracker](https://maidsafe.atlassian.net) -->
-<!-- [MaidSafe Code Bounty Program](https://blog.maidsafe.net/2015/07/08/maidsafe-code-bounty-program/) -->
+- [#development](https://safenetforum.org/c/development)
 
 ## Blogs
 
 - [blog.maidsafe.net](https://blog.maidsafe.net)
-- [metaquestions.me](http://metaquestions.me/)
+- [metaquestions.me](https://metaquestions.me)
 - [safecrossroads.net](http://www.safecrossroads.net/articles/)
 - [#blog-posts](https://safenetforum.org/c/community/blog-posts)
 
 ## Podcasts
 
-- [SAFE Crossroads Podcast](http://www.safecrossroads.net/podcasts/)
+- [SAFE Crossroads Podcast](https://safecrossroads.net/categories/#podcasts)
 - [LIFE IS PEOPLE](https://www.youtube.com/channel/UC7s9jwN1LFor8UYZVIxNfgw)
 - [#podcasts](https://safenetforum.org/c/community/podcasts)
 
