@@ -5,8 +5,14 @@ title: Documentation
 
 ## SAFE API
 
-- [How to develop for the SAFE Network (draft)](https://forum.safedev.org/t/how-to-develop-for-the-safe-network-draft/843)
 - [SAFE Network API - Getting started (draft)](https://forum.safedev.org/t/safe-network-api-getting-started-draft/726)
+- [safe_app Node.js API](http://docs.maidsafe.net/safe_app_nodejs/)
+- [safe_app Web API](http://docs.maidsafe.net/beaker-plugin-safe-app/)
+
+## Tutorials
+
+- [How to develop for the SAFE Network (draft)](https://forum.safedev.org/t/how-to-develop-for-the-safe-network-draft/843)
+- [How to run a local test network](https://forum.safedev.org/t/how-to-run-a-local-test-network/842)
 
 ## Example apps
 
