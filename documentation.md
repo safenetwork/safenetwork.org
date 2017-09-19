@@ -55,15 +55,17 @@ We also recommend the following pages:
 - [Whitepapers](https://safenetwork.wiki/en/Whitepapers)
 - [Glossary](https://safenetwork.wiki/en/Glossary)
 
-## Books
-
-- [Safe Network explained using bitcoin terminology](https://safe-network-explained.github.io/safe-for-bitcoiners)
-
 ## Blog posts
 
+- [Safe Network explained using bitcoin terminology](https://safe-network-explained.github.io/safe-for-bitcoiners)
+- [SAFE Network Architecture](https://safe-network-explained.github.io/architecture)
 - [Structuring Networks with XOR](https://blog.maidsafe.net/2016/05/27/structuring-networks-with-xor/)
 - [Introduction & Technical Overview of SAFE Consensus](https://blog.maidsafe.net/2016/06/23/introduction-technical-overview-of-safe-consensus/)
 - [Data chains: what? why? how?](https://metaquestions.me/2016/07/20/data-chains-what-why-how/)
+- [The Impossible Network](https://metaquestions.me/2017/08/12/the-impossible-network/)
+- [Data is the currency, literally!](https://metaquestions.me/2017/08/15/data-is-the-currency-literally/)
+- [SAFE, use case. Honest data networks](https://metaquestions.me/2017/08/21/safe-use-case-honest-data-networks/)
+- [Beyond a copy of the Internet.](https://metaquestions.me/2017/09/06/connecting-ideas-and-providing-much-needed-solutions/)
 
 ## Podcasts
 
