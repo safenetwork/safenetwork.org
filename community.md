@@ -60,7 +60,7 @@ See also [#events](https://safenetforum.org/c/community/events).
 - [SAFE Dev Forum](https://forum.safedev.org/)
 - [SAFE Network RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md)
 - [GitHub repositories](https://github.com/maidsafe)
-- [Roadmap](https://maidsafe.net/roadmap_dev.html)
+- [Roadmap](https://maidsafe.net/#roadmap)
 - [#development](https://safenetforum.org/c/development)
 
 ## Blogs
