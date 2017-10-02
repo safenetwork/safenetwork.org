@@ -73,6 +73,6 @@ We also recommend the following pages:
 
 ## Videos
 
-- [The SAFE Network from First Principles](https://www.youtube.com/playlist?list=PLiYqQVdgdw_sSDkdIZzDRQR9xZlsukIxD)
+- [Dev Tutorials](https://www.youtube.com/playlist?list=PL7GqwP0KrKTqUnDNNP7-LoVmXYgMSog7T)
 - [Technical Videos](https://www.youtube.com/playlist?list=PL7GqwP0KrKTpDLsQwk_gixasgCcUuL9H5)
-- [FAQ Videos](https://www.youtube.com/playlist?list=PL7GqwP0KrKTrE88kD-39FKKrydTGJQEUx)
+- [The SAFE Network from First Principles](https://www.youtube.com/playlist?list=PLiYqQVdgdw_sSDkdIZzDRQR9xZlsukIxD)
