@@ -18,11 +18,13 @@ title: Documentation
 
 - [Web Hosting Manager](https://github.com/maidsafe/safe_examples/tree/master/web_hosting_manager)
 - [SAFE Mail Tutorial](https://github.com/maidsafe/safe_examples/tree/master/email_app)
+- [Comments Plugin](https://github.com/maidsafe/safe_examples/tree/master/non-editable-comments-web)
+- [Comments Plugin (editable)](https://github.com/maidsafe/safe_examples/tree/master/editable-comments-web)
 - [SAFE Web API Playground](https://github.com/maidsafe/safe_examples/tree/master/safe_web_api_playground)
 
 ## Core libraries
 
-- [safe_app](https://docs.rs/safe_app/0.3.1/safe_app/)
+- [safe_app](https://docs.rs/safe_app)
 - [safe_authenticator](https://docs.rs/safe_authenticator)
 - [safe_core](https://docs.rs/safe_core)
 - [routing](https://docs.rs/routing/)
@@ -59,6 +61,7 @@ We also recommend the following pages:
 
 - [Safe Network explained using bitcoin terminology](https://safe-network-explained.github.io/safe-for-bitcoiners)
 - [SAFE Network Architecture](https://safe-network-explained.github.io/architecture)
+- [Splitting and Merging](https://safe-network-explained.github.io/splits-and-merges)
 - [Structuring Networks with XOR](https://blog.maidsafe.net/2016/05/27/structuring-networks-with-xor/)
 - [Introduction & Technical Overview of SAFE Consensus](https://blog.maidsafe.net/2016/06/23/introduction-technical-overview-of-safe-consensus/)
 - [Data chains: what? why? how?](https://metaquestions.me/2016/07/20/data-chains-what-why-how/)

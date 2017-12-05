@@ -7,9 +7,9 @@ title: Community
 
 The most important resources for those new to the SAFE Network are:
 
-- [safenetforum.org](https://safenetforum.org), the main discussion forum of the SAFE Network community.
-- [maidsafe.net](https://maidsafe.net), the website of MaidSafe, a Scottish company that has been working on designing and implementing the SAFE Network since 2006.
-- [forum.safedev.org](https://forum.safedev.org), a discussion forum about the core libraries and APIs of the SAFE Network.
+- [safenetforum.org](https://safenetforum.org): the main discussion forum of the SAFE Network community.
+- [maidsafe.net](https://maidsafe.net): the website of MaidSafe, a Scottish company that has been working on designing and implementing the SAFE Network since 2006.
+- [forum.safedev.org](https://forum.safedev.org): a discussion forum about the core libraries and APIs of the SAFE Network.
 
 ## Apps
 
@@ -38,9 +38,11 @@ We also recommend:
 
 The [SAFE Network Forum](https://safenetforum.org) is great for having in-depth discussions on subjects related to the SAFE Network. But in some cases maybe you don't feel like creating a new topic. For example, you might prefer to first ask your question in a chat room and only create a new topic if necessary.
 
-The [#safenetwork:matrix.org](https://riot.im/app/#/room/#safenetwork:matrix.org) room can be used for general discussion about the SAFE Network, and it's a good place to ask for help! It's bridged with [#safenetwork](https://kiwiirc.com/client/irc.freenode.net/safenetwork) on freenode and [safenetwork.slack.com](https://slack.safenetwork.org).
+The [#safenetwork:matrix.org](https://riot.im/app/#/room/#safenetwork:matrix.org) room can be used for general discussion about the SAFE Network, and it's a good place to ask for help! It's bridged with the <b>#general</b> channel of the [SAFE Network Slack](https://slack.safenetwork.org) and [#safenetwork](https://kiwiirc.com/client/irc.freenode.net/safenetwork) on freenode.
 
-The [#safenetwork-dev:matrix.org](https://riot.im/app/#/room/#safenetwork-dev:matrix.org) room can be used for technical discussion about the [SAFE API](https://api.safedev.org/) and the core libraries of the SAFE Network, and it's a good place to talk with other developers! It's bridged with [#safenetwork-dev](https://kiwiirc.com/client/irc.freenode.net/safenetwork-dev) on freenode and [safenetwork.slack.com](https://slack.safenetwork.org).
+The [#safenetwork-dev:matrix.org](https://riot.im/app/#/room/#safenetwork-dev:matrix.org) room can be used for technical discussion about the core libraries and APIs of the SAFE Network, and it's a good place to talk with other developers! It's bridged with the <b>#development</b> channel of the [SAFE Network Slack](https://slack.safenetwork.org) and [#safenetwork-dev](https://kiwiirc.com/client/irc.freenode.net/safenetwork-dev) on freenode.
+
+Any messages you post in the Matrix rooms mentioned above will automatically show up on Slack and IRC (and vice versa: if other users post messages on Slack and IRC, you will receive them via Matrix).
 
 ## Reddit
 
