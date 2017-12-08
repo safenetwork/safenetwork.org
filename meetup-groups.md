@@ -25,13 +25,9 @@ even better, open a pull request against
 
 [SAFE Network Montreal](https://montreal.safenetwork.org/)
 
-## Colombia
+## Malaysia
 
-[Bogotá Blockchain-dev](https://www.meetup.com/Bogota-Blockchain-dev-Bitcoin-Ethereum-etc-Meetup/)
-
-## Hungary
-
-[De-Central Budapest](https://www.meetup.com/De-Central-Budapest/)
+[MaidSafe Pod -- Kuala Lumpur](https://www.meetup.com/meetup-group-TOJBACET/)
 
 ## Netherlands
 
