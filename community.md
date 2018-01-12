@@ -38,18 +38,17 @@ We also recommend:
 
 The [SAFE Network Forum](https://safenetforum.org) is great for having in-depth discussions on subjects related to the SAFE Network. But in some cases maybe you don't feel like creating a new topic. For example, you might prefer to first ask your question in a chat room and only create a new topic if necessary.
 
-The [#safenetwork:matrix.org](https://riot.im/app/#/room/#safenetwork:matrix.org) room can be used for general discussion about the SAFE Network, and it's a good place to ask for help! It's bridged with the <b>#general</b> channel of the [SAFE Network Slack](https://slack.safenetwork.org) and [#safenetwork](https://kiwiirc.com/client/irc.freenode.net/safenetwork) on freenode.
+The [#safenetwork:matrix.org](https://riot.im/app/#/room/#safenetwork:matrix.org) room can be used for general discussion about the SAFE Network, and it's a good place to ask for help! It's bridged with the [SAFE Network Telegram group](https://t.me/safenetwork), the <b>#general</b> channel of the [SAFE Network Slack](https://slack.safenetwork.org) and [#safenetwork](https://kiwiirc.com/client/irc.freenode.net/safenetwork) on freenode.
 
-The [#safenetwork-dev:matrix.org](https://riot.im/app/#/room/#safenetwork-dev:matrix.org) room can be used for technical discussion about the core libraries and APIs of the SAFE Network, and it's a good place to talk with other developers! It's bridged with the <b>#development</b> channel of the [SAFE Network Slack](https://slack.safenetwork.org) and [#safenetwork-dev](https://kiwiirc.com/client/irc.freenode.net/safenetwork-dev) on freenode.
+The [#safenetwork-dev:matrix.org](https://riot.im/app/#/room/#safenetwork-dev:matrix.org) room can be used for technical discussion about the core libraries and APIs of the SAFE Network, and it's a good place to talk with other developers! It's bridged with the [SAFE Developers Telegram group](https://t.me/safedev), the <b>#development</b> channel of the [SAFE Network Slack](https://slack.safenetwork.org) and [#safenetwork-dev](https://kiwiirc.com/client/irc.freenode.net/safenetwork-dev) on freenode.
 
-Any messages you post in the Matrix rooms mentioned above will automatically show up on Slack and IRC (and vice versa: if other users post messages on Slack and IRC, you will receive them via Matrix).
+Any messages you post in the Matrix rooms mentioned above will automatically show up on Telegram, Slack and IRC (and vice versa: if other users post messages on Telegram, Slack or IRC, you will receive them via Matrix).
 
 ## Reddit
 
-We use the following subreddits:
+We mainly use the [/r/safenetwork](https://www.reddit.com/r/safenetwork) subreddit.
 
-- [/r/safenetwork](https://www.reddit.com/r/safenetwork)
-- [/r/maidsafe](https://www.reddit.com/r/maidsafe/)
+Previously, we were also using the /r/maidsafe subreddit, but MaidSafe recently decided to archive /r/maidsafe so that we can all focus our attention on /r/safenetwork. [See this post](https://safenetforum.org/t/reddit-migration-to-r-safenetwork/20334) for more info.
 
 ## Meetup groups
 
