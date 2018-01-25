@@ -3,6 +3,16 @@ layout: simple
 title: Documentation
 ---
 
+## Introduction
+
+- [SAFE Network Primer](https://maidsafe.net/#safePrimer)
+- [An Introduction to the SAFE Network](https://www.youtube.com/watch?v=U1ffmf6z50E) (video)
+- [The New Internet Shouldn't Be Blockchain-Based](https://www.youtube.com/watch?v=i-RLdU8Y0Qc) (video)
+- [10 key facts about SAFE Network](https://safenetforum.org/t/10-key-facts-about-safe-network/12948)
+- [Safe Network explained using bitcoin terminology](https://safe-network-explained.github.io/safe-for-bitcoiners)
+- [SAFE Network Architecture](https://safe-network-explained.github.io/architecture)
+- [SAFE Network School](https://safecrossroads.net/safe-network-school/) (audio)
+
 ## SAFE API
 
 - [SAFE Network API - Getting started (draft)](https://forum.safedev.org/t/safe-network-api-getting-started-draft/726)

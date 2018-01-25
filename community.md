@@ -68,9 +68,10 @@ See also [#events](https://safenetforum.org/c/community/events).
 
 ## Blogs
 
+- [SAFE Network Medium publication](https://medium.com/safenetwork)
 - [blog.maidsafe.net](https://blog.maidsafe.net)
 - [metaquestions.me](https://metaquestions.me)
-- [safecrossroads.net](http://www.safecrossroads.net/articles/)
+- [safecrossroads.net](https://safecrossroads.net/categories/#articles)
 - [#blog-posts](https://safenetforum.org/c/community/blog-posts)
 
 ## Podcasts
