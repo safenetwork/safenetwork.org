@@ -9,7 +9,7 @@ title: Documentation
 - [An Introduction to the SAFE Network](https://www.youtube.com/watch?v=U1ffmf6z50E) (video)
 - [The New Internet Shouldn't Be Blockchain-Based](https://www.youtube.com/watch?v=i-RLdU8Y0Qc) (video)
 - [10 key facts about SAFE Network](https://safenetforum.org/t/10-key-facts-about-safe-network/12948)
-- [Safe Network explained using bitcoin terminology](https://safe-network-explained.github.io/safe-for-bitcoiners)
+- [SAFE Network explained using bitcoin terminology](https://safe-network-explained.github.io/safe-for-bitcoiners)
 - [SAFE Network Architecture](https://safe-network-explained.github.io/architecture)
 - [SAFE Network School](https://safecrossroads.net/safe-network-school/) (audio)
 
@@ -69,7 +69,7 @@ We also recommend the following pages:
 
 ## Blog posts
 
-- [Safe Network explained using bitcoin terminology](https://safe-network-explained.github.io/safe-for-bitcoiners)
+- [SAFE Network explained using bitcoin terminology](https://safe-network-explained.github.io/safe-for-bitcoiners)
 - [SAFE Network Architecture](https://safe-network-explained.github.io/architecture)
 - [Splitting and Merging](https://safe-network-explained.github.io/splits-and-merges)
 - [Structuring Networks with XOR](https://blog.maidsafe.net/2016/05/27/structuring-networks-with-xor/)
