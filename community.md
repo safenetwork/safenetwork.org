@@ -42,7 +42,7 @@ The [#safenetwork:matrix.org](https://riot.im/app/#/room/#safenetwork:matrix.org
 
 The [#safenetwork-dev:matrix.org](https://riot.im/app/#/room/#safenetwork-dev:matrix.org) room can be used for technical discussion about the core libraries and APIs of the SAFE Network, and it's a good place to talk with other developers! It's bridged with the [SAFE Developers Telegram group](https://t.me/safedev), the <b>#development</b> channel of the [SAFE Network Slack](https://slack.safenetwork.org) and [#safenetwork-dev](https://kiwiirc.com/client/irc.freenode.net/safenetwork-dev) on freenode.
 
-The [#safemarkets:matrix.org](https://riot.im/app/#/room/#safemarkets:matrix.org) room can be used for discussion about MaidSafeCoin/Safecoin and other cryptocurrency trading chat. It's bridged with the [MaidSafeCoin Telegram group](https://t.me/maidsafecoin) and the <b>#trading</b> channel of the [SAFE Network Slack](https://slack.safenetwork.org).
+The [#safemarkets:matrix.org](https://riot.im/app/#/room/#safemarkets:matrix.org) room can be used for discussion about MaidSafeCoin/Safecoin and other cryptocurrency trading chat. It's bridged with the [MAID Trading Telegram group](https://t.me/maidsafecoin), the <b>#trading</b> channel of the [SAFE Network Slack](https://slack.safenetwork.org) and [#maidsafecoin](https://kiwiirc.com/client/irc.freenode.net/maidsafecoin) on freenode.
 
 Any messages you post in the Matrix rooms mentioned above will automatically show up on Telegram, Slack and IRC (and vice versa: if other users post messages on Telegram, Slack or IRC, you will receive them via Matrix).
 
