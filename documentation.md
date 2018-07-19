@@ -21,6 +21,8 @@ title: Documentation
 
 ## Tutorials
 
+- [SAFE Desktop App Tutorial](https://hub.safedev.org/platform/nodejs/)
+- [SAFE Web App Tutorial](https://hub.safedev.org/platform/web/)
 - [How to develop for the SAFE Network (draft)](https://forum.safedev.org/t/how-to-develop-for-the-safe-network-draft/843)
 - [How to run a local test network](https://forum.safedev.org/t/how-to-run-a-local-test-network/842)
 

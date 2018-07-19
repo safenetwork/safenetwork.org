@@ -77,7 +77,6 @@ See also [#events](https://safenetforum.org/c/community/events).
 ## Podcasts
 
 - [SAFE Crossroads Podcast](https://safecrossroads.net/categories/#podcasts)
-- [LIFE IS PEOPLE](https://www.youtube.com/channel/UC7s9jwN1LFor8UYZVIxNfgw)
 - [#podcasts](https://safenetforum.org/c/community/podcasts)
 
 ## Videos

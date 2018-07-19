@@ -13,13 +13,13 @@ even better, open a pull request against
 
 ## Argentina
 
-[SAFEdev Córdoba](https://www.meetup.com/SAFEdevs-Cordoba/)
+[SAFE Network: Córdoba](https://www.meetup.com/SAFE-Network-Cordoba/)
 
 ## Australia
 
-[SAFEdev Melbourne](https://www.meetup.com/SAFEdev-Melbourne/)
+[SAFE Network: Melbourne](https://www.meetup.com/SAFE-Network-Melbourne/)
 
-[Sydney Project SAFE](https://www.meetup.com/Sydney-Project-SAFE/)
+[Project SAFE: Sydney](https://www.meetup.com/ProjectSAFE-Sydney/)
 
 ## Canada
 
@@ -31,14 +31,16 @@ even better, open a pull request against
 
 ## Netherlands
 
-[SAFEdev Amsterdam](https://www.meetup.com/SAFEdev-Amsterdam/)
+[SAFE Network: Amsterdam](https://www.meetup.com/SAFE-Network-Amsterdam/)
 
 ## UK
 
-[Project SAFE: London](https://www.meetup.com/Project-SAFE-London/)
+[SAFE Network: London](https://www.meetup.com/SAFE-Network-London/)
 
 ## USA
 
-[SAFEdev Boston](https://www.meetup.com/SAFEdev-boston/)
+[SAFE Network: Boston](https://www.meetup.com/SAFE-Network-Boston/)
+
+[SAFE Network: Chicago](https://www.meetup.com/SAFEnetwork-Chicago/)
 
 [SAFE Network: San Francisco](https://www.meetup.com/safeSF/)
