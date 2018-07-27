@@ -25,10 +25,6 @@ even better, open a pull request against
 
 [SAFE Network Montreal](https://montreal.safenetwork.org/)
 
-## Malaysia
-
-[MaidSafe Pod -- Kuala Lumpur](https://www.meetup.com/meetup-group-TOJBACET/)
-
 ## Netherlands
 
 [SAFE Network: Amsterdam](https://www.meetup.com/SAFE-Network-Amsterdam/)
