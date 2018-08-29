@@ -44,19 +44,19 @@ We also recommend:
 
 The [SAFE Network Forum](https://safenetforum.org) is great for having in-depth discussions on subjects related to the SAFE Network. But in some cases maybe you don't feel like creating a new topic. For example, you might prefer to first ask your question in a chat room and only create a new topic if necessary.
 
-The [#safenetwork:matrix.org](https://riot.im/app/#/room/#safenetwork:matrix.org) room can be used for general discussion about the SAFE Network, and it's a good place to ask for help. It's bridged with the [SAFE Network Telegram group](https://t.me/safenetwork), the **#general** channel of the [SAFE Network Discord server](https://discord.safenetwork.org/) and the [safenetwork/general Gitter room](https://gitter.im/safenetwork/general).
+The [#safenetwork:matrix.org](https://riot.im/app/#/room/#safenetwork:matrix.org) room can be used for general discussion about the SAFE Network, and it's a good place to ask for help. It's bridged with the [@safenetwork](https://t.me/safenetwork) Telegram group, the [#general](https://discord.gg/0ak6ESm4oAR3oXik) channel of the SAFE Network Discord server and the [safenetwork/general](https://gitter.im/safenetwork/general) Gitter room.
 
-The [#safenetwork-dev:matrix.org](https://riot.im/app/#/room/#safenetwork-dev:matrix.org) room can be used for technical discussion about the core libraries and APIs of the SAFE Network, and it's a good place to talk with other developers. It's bridged with the [SAFE Developers Telegram group](https://t.me/safedev), the **#development** channel of the [SAFE Network Discord server](https://discord.safenetwork.org/) and the [safenetwork/development Gitter room](https://gitter.im/safenetwork/development).
+The [#safenetwork-dev:matrix.org](https://riot.im/app/#/room/#safenetwork-dev:matrix.org) room can be used for technical discussion about the core libraries and APIs of the SAFE Network, and it's a good place to talk with other developers. It's bridged with the [@safedev](https://t.me/safedev) Telegram group, the [#development](https://discord.gg/KPfJXgW) channel of the SAFE Network Discord server and the [safenetwork/development](https://gitter.im/safenetwork/development) Gitter room.
 
-The [#safemarkets:matrix.org](https://riot.im/app/#/room/#safemarkets:matrix.org) room can be used for discussion about MaidSafeCoin/Safecoin and other cryptocurrency trading chat. It's bridged with the [MAID trading chat Telegram group](https://t.me/maidsafecoin) and the **#trading** channel of the [SAFE Network Discord server](https://discord.safenetwork.org/).
+The [#safemarkets:matrix.org](https://riot.im/app/#/room/#safemarkets:matrix.org) room can be used for discussion about MaidSafeCoin/Safecoin and other cryptocurrency trading chat. It's bridged with the [@maidsafecoin](https://t.me/maidsafecoin) Telegram group and the [#trading](https://discord.gg/MzjRRXv) channel of the SAFE Network Discord server.
 
 Any messages you post in the Matrix rooms mentioned above will automatically show up on Telegram, Discord and Gitter (and vice versa: if other users post messages on Telegram, Discord or Gitter, you will receive them via Matrix).
 
 ## Reddit
 
-We mainly use the [/r/safenetwork](https://www.reddit.com/r/safenetwork) subreddit.
+We mainly use the [r/safenetwork](https://www.reddit.com/r/safenetwork) subreddit.
 
-Previously, we were also using the /r/maidsafe subreddit, but MaidSafe decided to archive /r/maidsafe so that we can all focus our attention on /r/safenetwork. [See this post](https://safenetforum.org/t/reddit-migration-to-r-safenetwork/20334) for more info.
+Previously, we were also using the r/maidsafe subreddit, but MaidSafe decided to archive r/maidsafe so that we can all focus our attention on r/safenetwork. [See this post](https://safenetforum.org/t/reddit-migration-to-r-safenetwork/20334) for more info.
 
 ## Meetup groups
 
