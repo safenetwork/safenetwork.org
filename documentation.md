@@ -5,25 +5,30 @@ title: Documentation
 
 ## Introduction
 
-- [SAFE Network Primer](https://maidsafe.net/#safePrimer)
+- [safenetwork.tech](https://safenetwork.tech/)
+  - [How It Works](https://safenetwork.tech/how-it-works/)
+  - [Safecoin](https://safenetwork.tech/safecoin/)
+  - [FAQ](https://safenetwork.tech/faq/)
+- [SAFE Network Primer](https://safenetworkprimer.com/)
 - [An Introduction to the SAFE Network](https://www.youtube.com/watch?v=U1ffmf6z50E) (video)
 - [The New Internet Shouldn't Be Blockchain-Based](https://www.youtube.com/watch?v=i-RLdU8Y0Qc) (video)
+- [Proof of Resource](https://www.youtube.com/watch?v=rdczpOlLaVk) (video)
 - [10 key facts about SAFE Network](https://safenetforum.org/t/10-key-facts-about-safe-network/12948)
 - [SAFE Network explained using bitcoin terminology](https://safe-network-explained.github.io/safe-for-bitcoiners)
 - [SAFE Network Architecture](https://safe-network-explained.github.io/architecture)
-- [SAFE Network School](https://safecrossroads.net/safe-network-school/) (audio)
 
 ## SAFE API
 
+- [DevHub](https://hub.safedev.org/)
 - [SAFE Network API - Getting started (draft)](https://forum.safedev.org/t/safe-network-api-getting-started-draft/726)
 - [safe_app Node.js API](http://docs.maidsafe.net/safe_app_nodejs/)
 - [safe_app Web API](http://docs.maidsafe.net/beaker-plugin-safe-app/)
 
 ## Tutorials
 
+- [How to develop for the SAFE Network (draft)](https://forum.safedev.org/t/how-to-develop-for-the-safe-network-draft/843)
 - [SAFE Desktop App Tutorial](https://hub.safedev.org/platform/nodejs/)
 - [SAFE Web App Tutorial](https://hub.safedev.org/platform/web/)
-- [How to develop for the SAFE Network (draft)](https://forum.safedev.org/t/how-to-develop-for-the-safe-network-draft/843)
 - [How to run a local test network](https://forum.safedev.org/t/how-to-run-a-local-test-network/842)
 
 ## Example apps
@@ -90,4 +95,5 @@ We also recommend the following pages:
 
 - [Dev Tutorials](https://www.youtube.com/playlist?list=PL7GqwP0KrKTqUnDNNP7-LoVmXYgMSog7T)
 - [Technical Videos](https://www.youtube.com/playlist?list=PL7GqwP0KrKTpDLsQwk_gixasgCcUuL9H5)
+- [SAFE DevCon 2018](https://www.youtube.com/playlist?list=PLvHzGPR8ljQQ8VeWfAR_Tz3__sX41pHMB)
 - [The SAFE Network from First Principles](https://www.youtube.com/playlist?list=PLiYqQVdgdw_sSDkdIZzDRQR9xZlsukIxD)
