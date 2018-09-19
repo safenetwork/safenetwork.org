@@ -42,7 +42,7 @@ We also recommend:
 
 ## Chats
 
-The [SAFE Network Forum](https://safenetforum.org) is great for having in-depth discussions on subjects related to the SAFE Network. But in some cases maybe you don't feel like creating a new topic. For example, you might prefer to first ask your question in a chat room and only create a new topic if necessary.
+The [SAFE Network Forum](https://safenetforum.org) is great for having in-depth discussions on subjects related to the SAFE Network. But in some cases, maybe you don't feel like creating a new topic. For example, you might prefer to first ask your question in a chat room and only create a new topic if necessary.
 
 The [#safenetwork:matrix.org](https://riot.im/app/#/room/#safenetwork:matrix.org) room can be used for general discussion about the SAFE Network, and it's a good place to ask for help. It's bridged with the [@safenetwork](https://t.me/safenetwork) Telegram group, the [#general](https://discord.gg/0ak6ESm4oAR3oXik) channel of the SAFE Network Discord server and the [safenetwork/general](https://gitter.im/safenetwork/general) Gitter room.
 
