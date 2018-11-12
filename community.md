@@ -8,8 +8,9 @@ title: Community
 The most important resources for those new to the SAFE Network are:
 
 - [safenetwork.tech](https://safenetwork.tech/) – a website about the SAFE Network that contains many useful pages such as:
+  - [Network Fundamentals](https://safenetwork.tech/fundamentals/)
   - [How It Works](https://safenetwork.tech/how-it-works/)
-  - [Safecoin](https://safenetwork.tech/safecoin/)
+  - [Safecoin](https://safenetwork.tech/safecoin/) (only the proxy token [MAID](https://safenetwork.tech/faq/#how-do-i-buy-safecoin) is available at the moment)
   - [FAQ](https://safenetwork.tech/faq/)
 - [safenetforum.org](https://safenetforum.org/) – the main discussion forum of the SAFE Network community
 

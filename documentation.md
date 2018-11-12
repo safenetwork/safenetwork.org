@@ -7,7 +7,6 @@ title: Documentation
 
 - [safenetwork.tech](https://safenetwork.tech/)
   - [How It Works](https://safenetwork.tech/how-it-works/)
-  - [Safecoin](https://safenetwork.tech/safecoin/)
   - [FAQ](https://safenetwork.tech/faq/)
 - [SAFE Network Primer](https://safenetworkprimer.com/)
 - [An Introduction to the SAFE Network](https://www.youtube.com/watch?v=U1ffmf6z50E) (video)
