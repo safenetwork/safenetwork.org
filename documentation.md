@@ -56,23 +56,6 @@ title: Documentation
 - [Implemented RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md#implemented-rfcs)
 - [Rejected RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md#rejected-rfcs)
 
-## SAFE Network Wiki
-
-The [SAFE Network Wiki](https://safenetwork.wiki) is a bit outdated, but it's still a good resource.
-
-Here are the main sections of the wiki:
-
-- [What it is](https://safenetwork.wiki/en/What_it_is)
-- [How to use it](https://safenetwork.wiki/en/How_to_use_it)
-- [How it works](https://safenetwork.wiki/en/How_it_works)
-
-We also recommend the following pages:
-
-- [FAQ](https://safenetwork.wiki/en/FAQ)
-- [Libraries](https://safenetwork.wiki/en/Libraries)
-- [Whitepapers](https://safenetwork.wiki/en/Whitepapers)
-- [Glossary](https://safenetwork.wiki/en/Glossary)
-
 ## Blog posts
 
 - [SAFE Network explained using bitcoin terminology](https://safe-network-explained.github.io/safe-for-bitcoiners)
