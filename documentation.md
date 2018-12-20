@@ -50,11 +50,7 @@ title: Documentation
 
 ## SAFE Network RFCs
 
-- [Active RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md#active-rfcs)
-- [Proposed RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md#proposed-rfcs)
-- [Agreed RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md#agreed-rfcs)
-- [Implemented RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md#implemented-rfcs)
-- [Rejected RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md#rejected-rfcs)
+- [RFCs Project Board](https://github.com/maidsafe/rfcs/projects/1)
 
 ## Blog posts
 
