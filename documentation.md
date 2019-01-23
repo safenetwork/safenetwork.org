@@ -32,7 +32,7 @@ title: Documentation
 
 ## Example apps
 
-- [Web Hosting Manager](https://github.com/maidsafe/safe_examples/tree/master/web_hosting_manager)
+- [Web Hosting Manager](https://github.com/maidsafe/safe-web-hosting-manager-electron)
 - [SAFE Mail Tutorial](https://github.com/maidsafe/safe_examples/tree/master/email_app)
 - [Comments Plugin](https://github.com/maidsafe/safe_examples/tree/master/non-editable-comments-web)
 - [Comments Plugin (editable)](https://github.com/maidsafe/safe_examples/tree/master/editable-comments-web)
