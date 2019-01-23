@@ -16,27 +16,42 @@ title: Documentation
 - [SAFE Network explained using bitcoin terminology](https://safe-network-explained.github.io/safe-for-bitcoiners)
 - [SAFE Network Architecture](https://safe-network-explained.github.io/architecture)
 
-## SAFE API
+## Developer website
 
-- [DevHub](https://hub.safedev.org/)
-- [SAFE Network API - Getting started (draft)](https://forum.safedev.org/t/safe-network-api-getting-started-draft/726)
-- [safe_app Node.js API](http://docs.maidsafe.net/safe_app_nodejs/)
-- [safe_app Web API](http://docs.maidsafe.net/beaker-plugin-safe-app/)
+- [hub.safedev.org](https://hub.safedev.org/)
+  - [Start Developing](https://hub.safedev.org/start_developing)
+  - [Core Technology](https://hub.safedev.org/core_technology)
+
+## API documentation
+
+- [SAFE Node.js API](https://docs.maidsafe.net/safe_app_nodejs/)
+- [SAFE Java API](https://docs.maidsafe.net/safe_app_java/) (Android)
 
 ## Tutorials
 
-- [How to develop for the SAFE Network (draft)](https://forum.safedev.org/t/how-to-develop-for-the-safe-network-draft/843)
 - [SAFE Desktop App Tutorial](https://hub.safedev.org/platform/nodejs/)
 - [SAFE Web App Tutorial](https://hub.safedev.org/platform/web/)
+- [SAFE Android App Tutorial](https://hub.safedev.org/platform/android/)
 - [How to run a local test network](https://forum.safedev.org/t/how-to-run-a-local-test-network/842)
 
 ## Example apps
 
+##### Desktop
+
+- [SAFE Desktop App Tutorial](https://github.com/maidsafe/safe_examples/tree/master/safe_app_electron_quick_start)
 - [Web Hosting Manager](https://github.com/maidsafe/safe-web-hosting-manager-electron)
 - [SAFE Mail Tutorial](https://github.com/maidsafe/safe_examples/tree/master/email_app)
+
+##### Web
+
+- [SAFE Web App Tutorial](https://github.com/maidsafe/safe_examples/tree/master/safe_web_app_quick_start)
+- [SAFE Web API Playground](https://github.com/maidsafe/safe_examples/tree/master/safe_web_api_playground)
 - [Comments Plugin](https://github.com/maidsafe/safe_examples/tree/master/non-editable-comments-web)
 - [Comments Plugin (editable)](https://github.com/maidsafe/safe_examples/tree/master/editable-comments-web)
-- [SAFE Web API Playground](https://github.com/maidsafe/safe_examples/tree/master/safe_web_api_playground)
+
+##### Android
+
+- [SafeTodo Android](https://github.com/maidsafe/safe-getting-started-android)
 
 ## Core libraries
 
