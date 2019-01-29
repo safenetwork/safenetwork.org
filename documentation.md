@@ -24,14 +24,17 @@ title: Documentation
 
 ## API documentation
 
-- [SAFE Node.js API](https://docs.maidsafe.net/safe_app_nodejs/)
-- [SAFE Java API](https://docs.maidsafe.net/safe_app_java/) (Android)
+- [Node.js API](https://docs.maidsafe.net/safe_app_nodejs/)
+- [Java API](https://docs.maidsafe.net/safe_app_java/) (Android)
+- [C# API](https://docs.maidsafe.net/safe_app_csharp/api/index.html)
 
 ## Tutorials
 
-- [SAFE Desktop App Tutorial](https://hub.safedev.org/platform/nodejs/)
-- [SAFE Web App Tutorial](https://hub.safedev.org/platform/web/)
-- [SAFE Android App Tutorial](https://hub.safedev.org/platform/android/)
+- [Node.js desktop tutorial](https://hub.safedev.org/platform/nodejs/) (Windows, macOS and Linux)
+- [JavaScript web tutorial](https://hub.safedev.org/platform/web/) (Windows, macOS and Linux)
+- [Java mobile tutorial](https://hub.safedev.org/platform/android/) (Android)
+- [.NET desktop tutorial](https://hub.safedev.org/platform/dotnet/) (Windows)
+- [.NET mobile tutorial](https://hub.safedev.org/platform/xamarin/) (Android and iOS)
 - [How to run a local test network](https://forum.safedev.org/t/how-to-run-a-local-test-network/842)
 
 ## Example apps
@@ -41,6 +44,7 @@ title: Documentation
 - [SAFE Desktop App Tutorial](https://github.com/maidsafe/safe_examples/tree/master/safe_app_electron_quick_start)
 - [Web Hosting Manager](https://github.com/maidsafe/safe-web-hosting-manager-electron)
 - [SAFE Mail Tutorial](https://github.com/maidsafe/safe_examples/tree/master/email_app)
+- [.NET desktop example application](https://github.com/maidsafe/safe-getting-started-dotnet/tree/master/DesktopExample) (Windows)
 
 ##### Web
 
@@ -49,9 +53,10 @@ title: Documentation
 - [Comments Plugin](https://github.com/maidsafe/safe_examples/tree/master/non-editable-comments-web)
 - [Comments Plugin (editable)](https://github.com/maidsafe/safe_examples/tree/master/editable-comments-web)
 
-##### Android
+##### Mobile
 
 - [SafeTodo Android](https://github.com/maidsafe/safe-getting-started-android)
+- [.NET mobile example applications](https://github.com/maidsafe/safe-getting-started-dotnet/tree/master/MobileExample) (Android and iOS)
 
 ## Core libraries
 
