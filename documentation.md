@@ -5,10 +5,10 @@ title: Documentation
 
 ## Introduction
 
-- [safenetwork.tech](https://safenetwork.tech/)
+- [safenetwork.tech](https://safenetwork.tech)
   - [How It Works](https://safenetwork.tech/how-it-works/)
   - [FAQ](https://safenetwork.tech/faq/)
-- [SAFE Network Primer](https://safenetworkprimer.com/)
+- [SAFE Network Primer](https://primer.safenetwork.org)
 - [An Introduction to the SAFE Network](https://www.youtube.com/watch?v=U1ffmf6z50E) (video)
 - [The New Internet Shouldn't Be Blockchain-Based](https://www.youtube.com/watch?v=i-RLdU8Y0Qc) (video)
 - [Proof of Resource](https://www.youtube.com/watch?v=rdczpOlLaVk) (video)

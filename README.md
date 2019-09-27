@@ -2,6 +2,8 @@
 
 > This repository contains the source files for [safenetwork.org](https://safenetwork.org).
 
+The SAFE Network is a secure, decentralized P2P network being developed by [MaidSafe](https://github.com/maidsafe).
+
 ## Contributing
 
 By contributing to this website, you dedicate your work to the public domain and relinquish any copyright claims under the terms of the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
@@ -15,7 +17,7 @@ By contributing to this website, you dedicate your work to the public domain and
 
 \* You should ensure you have [Bundler](https://bundler.io/) installed.
 
-If you're not sure how to open a pull request, feel free to <a href="https://github.com/safenetwork/safenetwork.org/issues/new">open an issue</a> instead.
+If you're not sure how to open a pull request, feel free to [open an issue](https://github.com/safenetwork/safenetwork.org/issues/new) instead.
 
 ## Credits
 
@@ -23,4 +25,4 @@ The layout was inspired by [v4-alpha.getbootstrap.com](https://v4-alpha.getboots
 
 ## Public domain
 
-This website is [dedicated to the public domain](https://github.com/safenetwork/safenetwork.org/blob/master/LICENSE.md) under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+This website is [dedicated to the public domain](https://github.com/safenetwork/safenetwork.org/blob/master/LICENSE) under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
