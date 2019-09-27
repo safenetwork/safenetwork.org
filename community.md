@@ -11,7 +11,6 @@ The most important resources for those new to the SAFE Network are:
   - [Network Fundamentals](https://safenetwork.tech/fundamentals/)
   - [How It Works](https://safenetwork.tech/how-it-works/)
   - [Safecoin](https://safenetwork.tech/safecoin/) (only the proxy token [MAID](https://safenetwork.tech/faq/#how-do-i-buy-safecoin) is available at the moment)
-  - [FAQ](https://safenetwork.tech/faq/)
 - [safenetforum.org](https://safenetforum.org/) – the main discussion forum of the SAFE Network community
 
 If you are a developer, we also recommend looking at these resources:
@@ -71,7 +70,7 @@ See also [#events](https://safenetforum.org/c/community/events).
 - [SAFE Dev Forum](https://forum.safedev.org/)
 - [GitHub repositories](https://github.com/maidsafe)
 - [SAFE Network RFCs](https://github.com/maidsafe/rfcs/blob/master/RFCs-by-status.md)
-- [Roadmap](https://safenetwork.tech/timeline/#Roadmap)
+- [Roadmap](https://safenetwork.tech/roadmap/)
 - [#development](https://safenetforum.org/c/development)
 
 ## Blog posts
