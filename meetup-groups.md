@@ -11,10 +11,6 @@ this list, please announce it in [#community](https://safenetforum.org/c/communi
 even better, open a pull request against
 [this website](https://github.com/safenetwork/safenetwork.org/blob/master/meetup-groups.md).
 
-## Argentina
-
-[SAFE Network: Córdoba](https://www.meetup.com/SAFE-Network-Cordoba/)
-
 ## Australia
 
 [SAFE Network: Melbourne](https://www.meetup.com/SAFE-Network-Melbourne/)
@@ -29,14 +25,22 @@ even better, open a pull request against
 
 [SAFE Network: Amsterdam](https://www.meetup.com/SAFE-Network-Amsterdam/)
 
+## Sweden
+
+[SAFE Network: Göteborg](https://www.meetup.com/SAFENetwork-Goteborg/)
+
+[SAFE Network: Malmö](https://www.meetup.com/SAFENetwork-Malmo/)
+
+[SAFE Network: Stockholm](https://www.meetup.com/SAFENetwork-Stockholm/)
+
 ## UK
+
+[SAFE Network and Bitcoin: Brighton](https://www.meetup.com/SAFE-Network-Brighton/)
+
+[SAFE Network: Glasgow](https://www.meetup.com/SAFE-Network-Glasgow/)
 
 [SAFE Network: London](https://www.meetup.com/SAFE-Network-London/)
 
 ## USA
 
-[SAFE Network: Boston](https://www.meetup.com/SAFE-Network-Boston/)
-
 [SAFE Network: Chicago](https://www.meetup.com/SAFEnetwork-Chicago/)
-
-[SAFE Network: San Francisco](https://www.meetup.com/safeSF/)

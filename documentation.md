@@ -20,55 +20,15 @@ title: Documentation
   - [Start Developing](https://hub.safedev.org/start_developing)
   - [Core Technology](https://hub.safedev.org/core_technology)
 
-## API documentation
-
-- [Node.js API](https://docs.maidsafe.net/safe_app_nodejs/)
-- [Java API](https://docs.maidsafe.net/safe_app_java/) (Android)
-- [C# API](https://docs.maidsafe.net/safe_app_csharp/api/index.html)
-
-## Tutorials
-
-- [Node.js desktop tutorial](https://hub.safedev.org/platform/nodejs/) (Windows, macOS and Linux)
-- [JavaScript web tutorial](https://hub.safedev.org/platform/web/) (Windows, macOS and Linux)
-- [Java mobile tutorial](https://hub.safedev.org/platform/android/) (Android)
-- [.NET desktop tutorial](https://hub.safedev.org/platform/dotnet/) (Windows)
-- [.NET mobile tutorial](https://hub.safedev.org/platform/xamarin/) (Android and iOS)
-- [How to run a local test network](https://forum.safedev.org/t/how-to-run-a-local-test-network/842)
-
-## Example apps
-
-##### Desktop
-
-- [SAFE Desktop App Tutorial](https://github.com/maidsafe/safe_examples/tree/master/safe_app_electron_quick_start)
-- [Web Hosting Manager](https://github.com/maidsafe/safe-web-hosting-manager-electron)
-- [SAFE Mail Tutorial](https://github.com/maidsafe/safe_examples/tree/master/email_app)
-- [.NET desktop example application](https://github.com/maidsafe/safe-getting-started-dotnet/tree/master/DesktopExample) (Windows)
-
-##### Web
-
-- [SAFE Web App Tutorial](https://github.com/maidsafe/safe_examples/tree/master/safe_web_app_quick_start)
-- [SAFE Web API Playground](https://github.com/maidsafe/safe_examples/tree/master/safe_web_api_playground)
-- [Comments Plugin](https://github.com/maidsafe/safe_examples/tree/master/non-editable-comments-web)
-- [Comments Plugin (editable)](https://github.com/maidsafe/safe_examples/tree/master/editable-comments-web)
-
-##### Mobile
-
-- [SafeTodo Android](https://github.com/maidsafe/safe-getting-started-android)
-- [.NET mobile example applications](https://github.com/maidsafe/safe-getting-started-dotnet/tree/master/MobileExample) (Android and iOS)
-
 ## Core libraries
 
 - [safe_app](https://docs.rs/safe_app)
 - [safe_authenticator](https://docs.rs/safe_authenticator)
 - [safe_core](https://docs.rs/safe_core)
-- [routing](https://docs.rs/routing/)
+- [routing](https://docs.rs/routing)
+- [parsec](https://docs.rs/parsec)
 - [safe_vault](https://docs.rs/safe_vault)
-- [crust](https://docs.rs/crust/)
 - [self_encryption](https://docs.rs/self_encryption)
-
-## SAFE Network RFCs
-
-- [RFCs Project Board](https://github.com/maidsafe/rfcs/projects/1)
 
 ## Blog posts
 
@@ -89,7 +49,6 @@ title: Documentation
 
 ## Videos
 
-- [Dev Tutorials](https://www.youtube.com/playlist?list=PL7GqwP0KrKTqUnDNNP7-LoVmXYgMSog7T)
 - [Technical Videos](https://www.youtube.com/playlist?list=PL7GqwP0KrKTpDLsQwk_gixasgCcUuL9H5)
 - [SAFE DevCon 2018](https://www.youtube.com/playlist?list=PLvHzGPR8ljQQ8VeWfAR_Tz3__sX41pHMB)
 - [The SAFE Network from First Principles](https://www.youtube.com/playlist?list=PLiYqQVdgdw_sSDkdIZzDRQR9xZlsukIxD)

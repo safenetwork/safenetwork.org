@@ -88,6 +88,5 @@ See also [#events](https://safenetforum.org/c/community/events).
 ## Videos
 
 - [Promotional Videos](https://www.youtube.com/playlist?list=PL7GqwP0KrKTrk-mpXxPb1l-oyfTHoZIdK)
-- [Tutorials](https://www.youtube.com/playlist?list=PL7GqwP0KrKTqUKiSCDCRQDiRhznbeZjRu)
 - [MaidSafe YouTube channel](https://www.youtube.com/channel/UChDck5R_C9i6XTrS66tbwOw)
 - [#videos](https://safenetforum.org/c/community/videos)
