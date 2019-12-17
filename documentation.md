@@ -11,8 +11,6 @@ title: Documentation
 - [The New Internet Shouldn't Be Blockchain-Based](https://www.youtube.com/watch?v=i-RLdU8Y0Qc) (video)
 - [Proof of Resource](https://www.youtube.com/watch?v=rdczpOlLaVk) (video)
 - [10 key facts about SAFE Network](https://safenetforum.org/t/10-key-facts-about-safe-network/12948)
-- [SAFE Network explained using bitcoin terminology](https://safe-network-explained.github.io/safe-for-bitcoiners)
-- [SAFE Network Architecture](https://safe-network-explained.github.io/architecture)
 
 ## Developer website
 
@@ -32,9 +30,6 @@ title: Documentation
 
 ## Blog posts
 
-- [SAFE Network explained using bitcoin terminology](https://safe-network-explained.github.io/safe-for-bitcoiners)
-- [SAFE Network Architecture](https://safe-network-explained.github.io/architecture)
-- [Splitting and Merging](https://safe-network-explained.github.io/splits-and-merges)
 - [Structuring Networks with XOR](https://blog.maidsafe.net/2016/05/27/structuring-networks-with-xor/)
 - [Introduction & Technical Overview of SAFE Consensus](https://blog.maidsafe.net/2016/06/23/introduction-technical-overview-of-safe-consensus/)
 - [Data chains: what? why? how?](https://metaquestions.me/2016/07/20/data-chains-what-why-how/)
