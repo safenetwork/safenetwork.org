@@ -33,7 +33,7 @@ Here are the best places to ask for help:
 ## News
 
 The best way to follow the progress of the SAFE Network is to read the weekly dev updates, which are posted every Thursday in [#development:updates](https://safenetforum.org/c/development/updates).  
-For less frequent updates, you can follow the [SAFE Network Medium publication](https://medium.com/safenetwork).
+For less frequent updates, you can follow the [SAFE Network Blog](https://blog.safenetwork.org/).
 
 We also recommend:
 
@@ -104,6 +104,7 @@ See also:
 
 ## Blog posts
 
+- [SAFE Network Blog](https://blog.safenetwork.org/)
 - [SAFE Network Medium publication](https://medium.com/safenetwork)
 - [metaquestions.me](https://metaquestions.me)
 - [safecrossroads.net](https://safecrossroads.net/categories/#articles)
